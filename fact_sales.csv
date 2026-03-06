@@ -1,0 +1,631 @@
+order_id,order_date,purchase_shop,logistics_provider,shipment_date,delivery_date,delivery_days,damage_flag,book_name,category,publisher,quantity,cost_per_unit,profit_per_unit_rupees,selling_price_per_unit,line_revenue,line_cost,line_profit,courier_charge,number_of_boxes,weight_kg,other_expenses
+ORD001,2022-09-03,Delhi Book Hub,VR Logistics,2022-09-04,2022-09-15,11,0,The Silent Patient,Fiction,Penguin India,20,90,40,130,2600,1800,800,530.9,4,72,2282
+ORD001,2022-09-03,Academic Traders,VR Logistics,2022-09-04,2022-09-15,11,0,Twisted Love,Fiction,Penguin India,20,105,50,155,3100,2100,1000,530.9,4,72,2282
+ORD001,2022-09-03,Scholars Market,VR Logistics,2022-09-04,2022-09-15,11,0,It Ends With Us,Fiction,Simon & Schuster India,20,95,40,135,2700,1900,800,530.9,4,72,2282
+ORD001,2022-09-03,Delhi Book Hub,VR Logistics,2022-09-04,2022-09-15,11,0,One Piece Vol 1,Manga,Viz Media India,20,110,50,160,3200,2200,1000,530.9,4,72,2282
+ORD001,2022-09-03,Academic Traders,VR Logistics,2022-09-04,2022-09-15,11,0,Twisted Love,Fiction,Penguin India,20,115.5,50,165.5,3310,2310,1000,530.9,4,72,2282
+ORD001,2022-09-03,Scholars Market,VR Logistics,2022-09-04,2022-09-15,11,0,One Piece Vol 1,Manga,Viz Media India,20,104.5,50,154.5,3090,2090,1000,530.9,4,72,2282
+ORD001,2022-09-03,Delhi Book Hub,VR Logistics,2022-09-04,2022-09-15,11,0,Naruto Vol 1,Manga,Viz Media India,20,110,50,160,3200,2200,1000,530.9,4,72,2282
+ORD001,2022-09-03,Academic Traders,VR Logistics,2022-09-04,2022-09-15,11,0,Grays Anatomy,Medical,Elsevier India,20,315,65,380,7600,6300,1300,530.9,4,72,2282
+ORD001,2022-09-03,Scholars Market,VR Logistics,2022-09-04,2022-09-15,11,0,It Ends With Us,Fiction,Simon & Schuster India,20,85.5,40,125.5,2510,1710,800,530.9,4,72,2282
+ORD001,2022-09-03,Delhi Book Hub,VR Logistics,2022-09-04,2022-09-15,11,0,Twisted Love,Fiction,Penguin India,20,90,40,130,2600,1800,800,530.9,4,72,2282
+ORD001,2022-09-03,Academic Traders,VR Logistics,2022-09-04,2022-09-15,11,0,Twisted Love,Fiction,Penguin India,20,115.5,50,165.5,3310,2310,1000,530.9,4,72,2282
+ORD001,2022-09-03,Scholars Market,VR Logistics,2022-09-04,2022-09-15,11,0,The Silent Patient,Fiction,Penguin India,20,95,40,135,2700,1900,800,530.9,4,72,2282
+ORD001,2022-09-03,Delhi Book Hub,VR Logistics,2022-09-04,2022-09-15,11,0,Twisted Love,Fiction,Penguin India,20,90,40,130,2600,1800,800,530.9,4,72,2282
+ORD001,2022-09-03,Academic Traders,VR Logistics,2022-09-04,2022-09-15,11,0,48 Laws of Power,Self-Help,Penguin India,20,105,50,155,3100,2100,1000,530.9,4,72,2282
+ORD001,2022-09-03,Scholars Market,VR Logistics,2022-09-04,2022-09-15,11,0,Engineering Mathematics,Academic,Pearson India,20,171,65,236,4720,3420,1300,530.9,4,72,2282
+ORD002,2022-10-06,Metro Book Distributors,SRB Logistics,2022-10-07,2022-10-17,10,0,Data Structures in C,Academic,McGraw Hill India,20,138,45,183,3660,2760,900,576,6,72,2211
+ORD002,2022-10-06,Academic Traders,SRB Logistics,2022-10-07,2022-10-17,10,0,It Ends With Us,Fiction,Simon & Schuster India,20,94.5,40,134.5,2690,1890,800,576,6,72,2211
+ORD002,2022-10-06,Delhi Book Hub,SRB Logistics,2022-10-07,2022-10-17,10,0,48 Laws of Power,Self-Help,Penguin India,20,100,50,150,3000,2000,1000,576,6,72,2211
+ORD002,2022-10-06,Metro Book Distributors,SRB Logistics,2022-10-07,2022-10-17,10,0,Twisted Love,Fiction,Penguin India,20,92,40,132,2640,1840,800,576,6,72,2211
+ORD002,2022-10-06,Academic Traders,SRB Logistics,2022-10-07,2022-10-17,10,0,One Piece Vol 1,Manga,Viz Media India,20,105,50,155,3100,2100,1000,576,6,72,2211
+ORD002,2022-10-06,Delhi Book Hub,SRB Logistics,2022-10-07,2022-10-17,10,0,Grays Anatomy,Medical,Elsevier India,20,250,65,315,6300,5000,1300,576,6,72,2211
+ORD002,2022-10-06,Metro Book Distributors,SRB Logistics,2022-10-07,2022-10-17,10,0,It Ends With Us,Fiction,Simon & Schuster India,20,82.8,40,122.8,2456,1656,800,576,6,72,2211
+ORD002,2022-10-06,Academic Traders,SRB Logistics,2022-10-07,2022-10-17,10,0,Naruto Vol 1,Manga,Viz Media India,20,115.5,50,165.5,3310,2310,1000,576,6,72,2211
+ORD002,2022-10-06,Delhi Book Hub,SRB Logistics,2022-10-07,2022-10-17,10,0,It Ends With Us,Fiction,Simon & Schuster India,20,110,50,160,3200,2200,1000,576,6,72,2211
+ORD002,2022-10-06,Metro Book Distributors,SRB Logistics,2022-10-07,2022-10-17,10,0,Twisted Love,Fiction,Penguin India,20,92,40,132,2640,1840,800,576,6,72,2211
+ORD002,2022-10-06,Academic Traders,SRB Logistics,2022-10-07,2022-10-17,10,0,Engineering Mathematics,Academic,Pearson India,20,189,65,254,5080,3780,1300,576,6,72,2211
+ORD002,2022-10-06,Delhi Book Hub,SRB Logistics,2022-10-07,2022-10-17,10,1,Engineering Mathematics,Academic,Pearson India,20,180,65,245,4900,3600,1300,576,6,72,2211
+ORD002,2022-10-06,Metro Book Distributors,SRB Logistics,2022-10-07,2022-10-17,10,0,Twisted Love,Fiction,Penguin India,20,101.2,50,151.2,3024,2024,1000,576,6,72,2211
+ORD002,2022-10-06,Academic Traders,SRB Logistics,2022-10-07,2022-10-17,10,0,Data Structures in C,Academic,McGraw Hill India,20,189,65,254,5080,3780,1300,576,6,72,2211
+ORD002,2022-10-06,Delhi Book Hub,SRB Logistics,2022-10-07,2022-10-17,10,0,It Ends With Us,Fiction,Simon & Schuster India,20,100,50,150,3000,2000,1000,576,6,72,2211
+ORD003,2022-11-20,Academic Traders,IRCTC Cargo,2022-11-21,2022-11-28,7,0,Naruto Vol 1,Manga,Viz Media India,20,94.5,40,134.5,2690,1890,800,1800,6,90,2406
+ORD003,2022-11-20,Delhi Book Hub,IRCTC Cargo,2022-11-21,2022-11-28,7,0,The Silent Patient,Fiction,Penguin India,20,110,50,160,3200,2200,1000,1800,6,90,2406
+ORD003,2022-11-20,Scholars Market,IRCTC Cargo,2022-11-21,2022-11-28,7,0,One Piece Vol 1,Manga,Viz Media India,20,95,40,135,2700,1900,800,1800,6,90,2406
+ORD003,2022-11-20,Academic Traders,IRCTC Cargo,2022-11-21,2022-11-28,7,0,Twisted Love,Fiction,Penguin India,20,94.5,40,134.5,2690,1890,800,1800,6,90,2406
+ORD003,2022-11-20,Delhi Book Hub,IRCTC Cargo,2022-11-21,2022-11-28,7,1,Grays Anatomy,Medical,Elsevier India,20,250,65,315,6300,5000,1300,1800,6,90,2406
+ORD003,2022-11-20,Scholars Market,IRCTC Cargo,2022-11-21,2022-11-28,7,0,Naruto Vol 1,Manga,Viz Media India,20,85.5,40,125.5,2510,1710,800,1800,6,90,2406
+ORD003,2022-11-20,Academic Traders,IRCTC Cargo,2022-11-21,2022-11-28,7,0,One Piece Vol 1,Manga,Viz Media India,20,94.5,40,134.5,2690,1890,800,1800,6,90,2406
+ORD003,2022-11-20,Delhi Book Hub,IRCTC Cargo,2022-11-21,2022-11-28,7,0,One Piece Vol 1,Manga,Viz Media India,20,100,50,150,3000,2000,1000,1800,6,90,2406
+ORD003,2022-11-20,Scholars Market,IRCTC Cargo,2022-11-21,2022-11-28,7,0,It Ends With Us,Fiction,Simon & Schuster India,20,85.5,40,125.5,2510,1710,800,1800,6,90,2406
+ORD003,2022-11-20,Academic Traders,IRCTC Cargo,2022-11-21,2022-11-28,7,0,The Silent Patient,Fiction,Penguin India,20,115.5,50,165.5,3310,2310,1000,1800,6,90,2406
+ORD003,2022-11-20,Delhi Book Hub,IRCTC Cargo,2022-11-21,2022-11-28,7,0,Twisted Love,Fiction,Penguin India,20,110,50,160,3200,2200,1000,1800,6,90,2406
+ORD003,2022-11-20,Scholars Market,IRCTC Cargo,2022-11-21,2022-11-28,7,0,Naruto Vol 1,Manga,Viz Media India,20,85.5,40,125.5,2510,1710,800,1800,6,90,2406
+ORD003,2022-11-20,Academic Traders,IRCTC Cargo,2022-11-21,2022-11-28,7,0,It Ends With Us,Fiction,Simon & Schuster India,20,105,50,155,3100,2100,1000,1800,6,90,2406
+ORD003,2022-11-20,Delhi Book Hub,IRCTC Cargo,2022-11-21,2022-11-28,7,0,One Piece Vol 1,Manga,Viz Media India,20,100,50,150,3000,2000,1000,1800,6,90,2406
+ORD003,2022-11-20,Scholars Market,IRCTC Cargo,2022-11-21,2022-11-28,7,0,Twisted Love,Fiction,Penguin India,20,95,40,135,2700,1900,800,1800,6,90,2406
+ORD004,2022-11-18,Metro Book Distributors,SRB Logistics,2022-11-19,2022-11-29,10,0,Grays Anatomy,Medical,Elsevier India,20,230,65,295,5900,4600,1300,672,6,84,2355
+ORD004,2022-11-18,Scholars Market,SRB Logistics,2022-11-19,2022-11-29,10,0,The Silent Patient,Fiction,Penguin India,20,104.5,50,154.5,3090,2090,1000,672,6,84,2355
+ORD004,2022-11-18,Academic Traders,SRB Logistics,2022-11-19,2022-11-29,10,0,It Ends With Us,Fiction,Simon & Schuster India,20,105,50,155,3100,2100,1000,672,6,84,2355
+ORD004,2022-11-18,Metro Book Distributors,SRB Logistics,2022-11-19,2022-11-29,10,0,Engineering Mathematics,Academic,Pearson India,20,165.6,65,230.6,4612,3312,1300,672,6,84,2355
+ORD004,2022-11-18,Scholars Market,SRB Logistics,2022-11-19,2022-11-29,10,0,Data Structures in C,Academic,McGraw Hill India,20,171,65,236,4720,3420,1300,672,6,84,2355
+ORD004,2022-11-18,Academic Traders,SRB Logistics,2022-11-19,2022-11-29,10,0,Engineering Mathematics,Academic,Pearson India,20,189,65,254,5080,3780,1300,672,6,84,2355
+ORD004,2022-11-18,Metro Book Distributors,SRB Logistics,2022-11-19,2022-11-29,10,0,Data Structures in C,Academic,McGraw Hill India,20,138,45,183,3660,2760,900,672,6,84,2355
+ORD004,2022-11-18,Scholars Market,SRB Logistics,2022-11-19,2022-11-29,10,0,It Ends With Us,Fiction,Simon & Schuster India,20,95,40,135,2700,1900,800,672,6,84,2355
+ORD004,2022-11-18,Academic Traders,SRB Logistics,2022-11-19,2022-11-29,10,0,48 Laws of Power,Self-Help,Penguin India,20,115.5,50,165.5,3310,2310,1000,672,6,84,2355
+ORD004,2022-11-18,Metro Book Distributors,SRB Logistics,2022-11-19,2022-11-29,10,0,Naruto Vol 1,Manga,Viz Media India,20,101.2,50,151.2,3024,2024,1000,672,6,84,2355
+ORD004,2022-11-18,Scholars Market,SRB Logistics,2022-11-19,2022-11-29,10,0,Twisted Love,Fiction,Penguin India,20,95,40,135,2700,1900,800,672,6,84,2355
+ORD004,2022-11-18,Academic Traders,SRB Logistics,2022-11-19,2022-11-29,10,0,48 Laws of Power,Self-Help,Penguin India,20,105,50,155,3100,2100,1000,672,6,84,2355
+ORD004,2022-11-18,Metro Book Distributors,SRB Logistics,2022-11-19,2022-11-29,10,0,It Ends With Us,Fiction,Simon & Schuster India,20,82.8,40,122.8,2456,1656,800,672,6,84,2355
+ORD004,2022-11-18,Scholars Market,SRB Logistics,2022-11-19,2022-11-29,10,0,Naruto Vol 1,Manga,Viz Media India,20,104.5,50,154.5,3090,2090,1000,672,6,84,2355
+ORD004,2022-11-18,Academic Traders,SRB Logistics,2022-11-19,2022-11-29,10,0,The Silent Patient,Fiction,Penguin India,20,105,50,155,3100,2100,1000,672,6,84,2355
+ORD004,2022-11-18,Metro Book Distributors,SRB Logistics,2022-11-19,2022-11-29,10,0,Engineering Mathematics,Academic,Pearson India,20,138,45,183,3660,2760,900,672,6,84,2355
+ORD005,2022-12-13,Delhi Book Hub,IRCTC Cargo,2022-12-14,2022-12-21,7,0,It Ends With Us,Fiction,Simon & Schuster India,20,110,50,160,3200,2200,1000,1040,4,52,2456
+ORD005,2022-12-13,Scholars Market,IRCTC Cargo,2022-12-14,2022-12-21,7,1,Data Structures in C,Academic,McGraw Hill India,20,171,65,236,4720,3420,1300,1040,4,52,2456
+ORD005,2022-12-13,Metro Book Distributors,IRCTC Cargo,2022-12-14,2022-12-21,7,0,Engineering Mathematics,Academic,Pearson India,20,138,45,183,3660,2760,900,1040,4,52,2456
+ORD005,2022-12-13,Delhi Book Hub,IRCTC Cargo,2022-12-14,2022-12-21,7,0,It Ends With Us,Fiction,Simon & Schuster India,20,110,50,160,3200,2200,1000,1040,4,52,2456
+ORD005,2022-12-13,Scholars Market,IRCTC Cargo,2022-12-14,2022-12-21,7,0,One Piece Vol 1,Manga,Viz Media India,20,95,40,135,2700,1900,800,1040,4,52,2456
+ORD005,2022-12-13,Metro Book Distributors,IRCTC Cargo,2022-12-14,2022-12-21,7,1,Engineering Mathematics,Academic,Pearson India,20,165.6,65,230.6,4612,3312,1300,1040,4,52,2456
+ORD005,2022-12-13,Delhi Book Hub,IRCTC Cargo,2022-12-14,2022-12-21,7,0,The Silent Patient,Fiction,Penguin India,20,110,50,160,3200,2200,1000,1040,4,52,2456
+ORD005,2022-12-13,Scholars Market,IRCTC Cargo,2022-12-14,2022-12-21,7,0,Naruto Vol 1,Manga,Viz Media India,20,95,40,135,2700,1900,800,1040,4,52,2456
+ORD005,2022-12-13,Metro Book Distributors,IRCTC Cargo,2022-12-14,2022-12-21,7,0,Grays Anatomy,Medical,Elsevier India,20,276,65,341,6820,5520,1300,1040,4,52,2456
+ORD005,2022-12-13,Delhi Book Hub,IRCTC Cargo,2022-12-14,2022-12-21,7,1,Twisted Love,Fiction,Penguin India,20,100,50,150,3000,2000,1000,1040,4,52,2456
+ORD005,2022-12-13,Scholars Market,IRCTC Cargo,2022-12-14,2022-12-21,7,0,Engineering Mathematics,Academic,Pearson India,20,171,65,236,4720,3420,1300,1040,4,52,2456
+ORD005,2022-12-13,Metro Book Distributors,IRCTC Cargo,2022-12-14,2022-12-21,7,0,Twisted Love,Fiction,Penguin India,20,92,40,132,2640,1840,800,1040,4,52,2456
+ORD005,2022-12-13,Delhi Book Hub,IRCTC Cargo,2022-12-14,2022-12-21,7,0,One Piece Vol 1,Manga,Viz Media India,20,100,50,150,3000,2000,1000,1040,4,52,2456
+ORD005,2022-12-13,Scholars Market,IRCTC Cargo,2022-12-14,2022-12-21,7,0,Engineering Mathematics,Academic,Pearson India,20,171,65,236,4720,3420,1300,1040,4,52,2456
+ORD005,2022-12-13,Metro Book Distributors,IRCTC Cargo,2022-12-14,2022-12-21,7,0,48 Laws of Power,Self-Help,Penguin India,20,92,40,132,2640,1840,800,1040,4,52,2456
+ORD005,2022-12-13,Delhi Book Hub,IRCTC Cargo,2022-12-14,2022-12-21,7,0,Engineering Mathematics,Academic,Pearson India,20,150,45,195,3900,3000,900,1040,4,52,2456
+ORD005,2022-12-13,Scholars Market,IRCTC Cargo,2022-12-14,2022-12-21,7,0,The Silent Patient,Fiction,Penguin India,20,95,40,135,2700,1900,800,1040,4,52,2456
+ORD005,2022-12-13,Metro Book Distributors,IRCTC Cargo,2022-12-14,2022-12-21,7,1,The Silent Patient,Fiction,Penguin India,20,82.8,40,122.8,2456,1656,800,1040,4,52,2456
+ORD005,2022-12-13,Delhi Book Hub,IRCTC Cargo,2022-12-14,2022-12-21,7,0,Data Structures in C,Academic,McGraw Hill India,20,150,45,195,3900,3000,900,1040,4,52,2456
+ORD005,2022-12-13,Scholars Market,IRCTC Cargo,2022-12-14,2022-12-21,7,0,Engineering Mathematics,Academic,Pearson India,20,171,65,236,4720,3420,1300,1040,4,52,2456
+ORD006,2022-12-13,Delhi Book Hub,IRCTC Cargo,2022-12-14,2022-12-21,7,0,48 Laws of Power,Self-Help,Penguin India,20,90,40,130,2600,1800,800,1440,6,72,2350
+ORD006,2022-12-13,Academic Traders,IRCTC Cargo,2022-12-14,2022-12-21,7,0,The Silent Patient,Fiction,Penguin India,20,94.5,40,134.5,2690,1890,800,1440,6,72,2350
+ORD006,2022-12-13,Metro Book Distributors,IRCTC Cargo,2022-12-14,2022-12-21,7,0,Naruto Vol 1,Manga,Viz Media India,20,82.8,40,122.8,2456,1656,800,1440,6,72,2350
+ORD006,2022-12-13,Delhi Book Hub,IRCTC Cargo,2022-12-14,2022-12-21,7,0,It Ends With Us,Fiction,Simon & Schuster India,20,110,50,160,3200,2200,1000,1440,6,72,2350
+ORD006,2022-12-13,Academic Traders,IRCTC Cargo,2022-12-14,2022-12-21,7,0,One Piece Vol 1,Manga,Viz Media India,20,115.5,50,165.5,3310,2310,1000,1440,6,72,2350
+ORD006,2022-12-13,Metro Book Distributors,IRCTC Cargo,2022-12-14,2022-12-21,7,1,The Silent Patient,Fiction,Penguin India,20,101.2,50,151.2,3024,2024,1000,1440,6,72,2350
+ORD006,2022-12-13,Delhi Book Hub,IRCTC Cargo,2022-12-14,2022-12-21,7,0,It Ends With Us,Fiction,Simon & Schuster India,20,100,50,150,3000,2000,1000,1440,6,72,2350
+ORD006,2022-12-13,Academic Traders,IRCTC Cargo,2022-12-14,2022-12-21,7,0,Naruto Vol 1,Manga,Viz Media India,20,105,50,155,3100,2100,1000,1440,6,72,2350
+ORD006,2022-12-13,Metro Book Distributors,IRCTC Cargo,2022-12-14,2022-12-21,7,0,Data Structures in C,Academic,McGraw Hill India,20,165.6,65,230.6,4612,3312,1300,1440,6,72,2350
+ORD006,2022-12-13,Delhi Book Hub,IRCTC Cargo,2022-12-14,2022-12-21,7,0,The Silent Patient,Fiction,Penguin India,20,100,50,150,3000,2000,1000,1440,6,72,2350
+ORD006,2022-12-13,Academic Traders,IRCTC Cargo,2022-12-14,2022-12-21,7,0,Naruto Vol 1,Manga,Viz Media India,20,94.5,40,134.5,2690,1890,800,1440,6,72,2350
+ORD006,2022-12-13,Metro Book Distributors,IRCTC Cargo,2022-12-14,2022-12-21,7,0,Twisted Love,Fiction,Penguin India,20,101.2,50,151.2,3024,2024,1000,1440,6,72,2350
+ORD006,2022-12-13,Delhi Book Hub,IRCTC Cargo,2022-12-14,2022-12-21,7,0,Twisted Love,Fiction,Penguin India,20,90,40,130,2600,1800,800,1440,6,72,2350
+ORD006,2022-12-13,Academic Traders,IRCTC Cargo,2022-12-14,2022-12-21,7,0,One Piece Vol 1,Manga,Viz Media India,20,115.5,50,165.5,3310,2310,1000,1440,6,72,2350
+ORD006,2022-12-13,Metro Book Distributors,IRCTC Cargo,2022-12-14,2022-12-21,7,1,48 Laws of Power,Self-Help,Penguin India,20,92,40,132,2640,1840,800,1440,6,72,2350
+ORD006,2022-12-13,Delhi Book Hub,IRCTC Cargo,2022-12-14,2022-12-21,7,0,Engineering Mathematics,Academic,Pearson India,20,150,45,195,3900,3000,900,1440,6,72,2350
+ORD006,2022-12-13,Academic Traders,IRCTC Cargo,2022-12-14,2022-12-21,7,0,Grays Anatomy,Medical,Elsevier India,20,262.5,65,327.5,6550,5250,1300,1440,6,72,2350
+ORD007,2023-01-15,Scholars Market,VR Logistics,2023-01-16,2023-01-23,7,0,48 Laws of Power,Self-Help,Penguin India,20,85.5,40,125.5,2510,1710,800,566.56,6,72,2592
+ORD007,2023-01-15,Delhi Book Hub,VR Logistics,2023-01-16,2023-01-23,7,0,One Piece Vol 1,Manga,Viz Media India,20,90,40,130,2600,1800,800,566.56,6,72,2592
+ORD007,2023-01-15,Academic Traders,VR Logistics,2023-01-16,2023-01-23,7,0,Twisted Love,Fiction,Penguin India,20,105,50,155,3100,2100,1000,566.56,6,72,2592
+ORD007,2023-01-15,Scholars Market,VR Logistics,2023-01-16,2023-01-23,7,0,One Piece Vol 1,Manga,Viz Media India,20,104.5,50,154.5,3090,2090,1000,566.56,6,72,2592
+ORD007,2023-01-15,Delhi Book Hub,VR Logistics,2023-01-16,2023-01-23,7,0,48 Laws of Power,Self-Help,Penguin India,20,100,50,150,3000,2000,1000,566.56,6,72,2592
+ORD007,2023-01-15,Academic Traders,VR Logistics,2023-01-16,2023-01-23,7,1,The Silent Patient,Fiction,Penguin India,20,105,50,155,3100,2100,1000,566.56,6,72,2592
+ORD007,2023-01-15,Scholars Market,VR Logistics,2023-01-16,2023-01-23,7,0,It Ends With Us,Fiction,Simon & Schuster India,20,95,40,135,2700,1900,800,566.56,6,72,2592
+ORD007,2023-01-15,Delhi Book Hub,VR Logistics,2023-01-16,2023-01-23,7,0,Naruto Vol 1,Manga,Viz Media India,20,90,40,130,2600,1800,800,566.56,6,72,2592
+ORD007,2023-01-15,Academic Traders,VR Logistics,2023-01-16,2023-01-23,7,0,Naruto Vol 1,Manga,Viz Media India,20,94.5,40,134.5,2690,1890,800,566.56,6,72,2592
+ORD007,2023-01-15,Scholars Market,VR Logistics,2023-01-16,2023-01-23,7,0,It Ends With Us,Fiction,Simon & Schuster India,20,104.5,50,154.5,3090,2090,1000,566.56,6,72,2592
+ORD007,2023-01-15,Delhi Book Hub,VR Logistics,2023-01-16,2023-01-23,7,0,One Piece Vol 1,Manga,Viz Media India,20,90,40,130,2600,1800,800,566.56,6,72,2592
+ORD007,2023-01-15,Academic Traders,VR Logistics,2023-01-16,2023-01-23,7,0,The Silent Patient,Fiction,Penguin India,20,115.5,50,165.5,3310,2310,1000,566.56,6,72,2592
+ORD007,2023-01-15,Scholars Market,VR Logistics,2023-01-16,2023-01-23,7,0,One Piece Vol 1,Manga,Viz Media India,20,104.5,50,154.5,3090,2090,1000,566.56,6,72,2592
+ORD007,2023-01-15,Delhi Book Hub,VR Logistics,2023-01-16,2023-01-23,7,0,48 Laws of Power,Self-Help,Penguin India,20,100,50,150,3000,2000,1000,566.56,6,72,2592
+ORD007,2023-01-15,Academic Traders,VR Logistics,2023-01-16,2023-01-23,7,0,One Piece Vol 1,Manga,Viz Media India,20,115.5,50,165.5,3310,2310,1000,566.56,6,72,2592
+ORD008,2023-02-10,Metro Book Distributors,VR Logistics,2023-02-11,2023-02-21,10,0,Twisted Love,Fiction,Penguin India,20,101.2,50,151.2,3024,2024,1000,286.91,3,39,2501
+ORD008,2023-02-10,Delhi Book Hub,VR Logistics,2023-02-11,2023-02-21,10,0,One Piece Vol 1,Manga,Viz Media India,20,100,50,150,3000,2000,1000,286.91,3,39,2501
+ORD008,2023-02-10,Academic Traders,VR Logistics,2023-02-11,2023-02-21,10,0,One Piece Vol 1,Manga,Viz Media India,20,94.5,40,134.5,2690,1890,800,286.91,3,39,2501
+ORD008,2023-02-10,Metro Book Distributors,VR Logistics,2023-02-11,2023-02-21,10,0,Data Structures in C,Academic,McGraw Hill India,20,165.6,65,230.6,4612,3312,1300,286.91,3,39,2501
+ORD008,2023-02-10,Delhi Book Hub,VR Logistics,2023-02-11,2023-02-21,10,0,Data Structures in C,Academic,McGraw Hill India,20,150,45,195,3900,3000,900,286.91,3,39,2501
+ORD008,2023-02-10,Academic Traders,VR Logistics,2023-02-11,2023-02-21,10,0,Engineering Mathematics,Academic,Pearson India,20,157.5,65,222.5,4450,3150,1300,286.91,3,39,2501
+ORD008,2023-02-10,Metro Book Distributors,VR Logistics,2023-02-11,2023-02-21,10,0,Engineering Mathematics,Academic,Pearson India,20,165.6,65,230.6,4612,3312,1300,286.91,3,39,2501
+ORD008,2023-02-10,Delhi Book Hub,VR Logistics,2023-02-11,2023-02-21,10,0,It Ends With Us,Fiction,Simon & Schuster India,20,90,40,130,2600,1800,800,286.91,3,39,2501
+ORD008,2023-02-10,Academic Traders,VR Logistics,2023-02-11,2023-02-21,10,1,Naruto Vol 1,Manga,Viz Media India,20,94.5,40,134.5,2690,1890,800,286.91,3,39,2501
+ORD008,2023-02-10,Metro Book Distributors,VR Logistics,2023-02-11,2023-02-21,10,0,It Ends With Us,Fiction,Simon & Schuster India,20,82.8,40,122.8,2456,1656,800,286.91,3,39,2501
+ORD008,2023-02-10,Delhi Book Hub,VR Logistics,2023-02-11,2023-02-21,10,0,Naruto Vol 1,Manga,Viz Media India,20,90,40,130,2600,1800,800,286.91,3,39,2501
+ORD008,2023-02-10,Academic Traders,VR Logistics,2023-02-11,2023-02-21,10,0,Data Structures in C,Academic,McGraw Hill India,20,157.5,65,222.5,4450,3150,1300,286.91,3,39,2501
+ORD008,2023-02-10,Metro Book Distributors,VR Logistics,2023-02-11,2023-02-21,10,0,The Silent Patient,Fiction,Penguin India,20,101.2,50,151.2,3024,2024,1000,286.91,3,39,2501
+ORD008,2023-02-10,Delhi Book Hub,VR Logistics,2023-02-11,2023-02-21,10,0,48 Laws of Power,Self-Help,Penguin India,20,110,50,160,3200,2200,1000,286.91,3,39,2501
+ORD008,2023-02-10,Academic Traders,VR Logistics,2023-02-11,2023-02-21,10,0,The Silent Patient,Fiction,Penguin India,20,94.5,40,134.5,2690,1890,800,286.91,3,39,2501
+ORD008,2023-02-10,Metro Book Distributors,VR Logistics,2023-02-11,2023-02-21,10,0,48 Laws of Power,Self-Help,Penguin India,20,82.8,40,122.8,2456,1656,800,286.91,3,39,2501
+ORD008,2023-02-10,Delhi Book Hub,VR Logistics,2023-02-11,2023-02-21,10,0,Data Structures in C,Academic,McGraw Hill India,20,150,45,195,3900,3000,900,286.91,3,39,2501
+ORD008,2023-02-10,Academic Traders,VR Logistics,2023-02-11,2023-02-21,10,0,Twisted Love,Fiction,Penguin India,20,94.5,40,134.5,2690,1890,800,286.91,3,39,2501
+ORD009,2023-03-20,Delhi Book Hub,VR Logistics,2023-03-21,2023-04-01,11,0,The Silent Patient,Fiction,Penguin India,20,90,60,150,3000,1800,1200,522.52,5,70,1642
+ORD009,2023-03-20,Metro Book Distributors,VR Logistics,2023-03-21,2023-04-01,11,0,48 Laws of Power,Self-Help,Penguin India,20,82.8,60,142.8,2856,1656,1200,522.52,5,70,1642
+ORD009,2023-03-20,Delhi Book Hub,VR Logistics,2023-03-21,2023-04-01,11,0,Grays Anatomy,Medical,Elsevier India,20,250,85,335,6700,5000,1700,522.52,5,70,1642
+ORD009,2023-03-20,Metro Book Distributors,VR Logistics,2023-03-21,2023-04-01,11,0,48 Laws of Power,Self-Help,Penguin India,20,92,60,152,3040,1840,1200,522.52,5,70,1642
+ORD009,2023-03-20,Delhi Book Hub,VR Logistics,2023-03-21,2023-04-01,11,0,It Ends With Us,Fiction,Simon & Schuster India,20,90,60,150,3000,1800,1200,522.52,5,70,1642
+ORD009,2023-03-20,Metro Book Distributors,VR Logistics,2023-03-21,2023-04-01,11,0,Twisted Love,Fiction,Penguin India,20,82.8,60,142.8,2856,1656,1200,522.52,5,70,1642
+ORD009,2023-03-20,Delhi Book Hub,VR Logistics,2023-03-21,2023-04-01,11,0,Data Structures in C,Academic,McGraw Hill India,20,180,85,265,5300,3600,1700,522.52,5,70,1642
+ORD009,2023-03-20,Metro Book Distributors,VR Logistics,2023-03-21,2023-04-01,11,0,The Silent Patient,Fiction,Penguin India,20,101.2,70,171.2,3424,2024,1400,522.52,5,70,1642
+ORD009,2023-03-20,Delhi Book Hub,VR Logistics,2023-03-21,2023-04-01,11,0,Naruto Vol 1,Manga,Viz Media India,20,110,70,180,3600,2200,1400,522.52,5,70,1642
+ORD009,2023-03-20,Metro Book Distributors,VR Logistics,2023-03-21,2023-04-01,11,0,Data Structures in C,Academic,McGraw Hill India,20,138,65,203,4060,2760,1300,522.52,5,70,1642
+ORD009,2023-03-20,Delhi Book Hub,VR Logistics,2023-03-21,2023-04-01,11,0,Data Structures in C,Academic,McGraw Hill India,20,180,85,265,5300,3600,1700,522.52,5,70,1642
+ORD009,2023-03-20,Metro Book Distributors,VR Logistics,2023-03-21,2023-04-01,11,0,Grays Anatomy,Medical,Elsevier India,20,230,85,315,6300,4600,1700,522.52,5,70,1642
+ORD009,2023-03-20,Delhi Book Hub,VR Logistics,2023-03-21,2023-04-01,11,0,The Silent Patient,Fiction,Penguin India,20,90,60,150,3000,1800,1200,522.52,5,70,1642
+ORD009,2023-03-20,Metro Book Distributors,VR Logistics,2023-03-21,2023-04-01,11,0,Data Structures in C,Academic,McGraw Hill India,20,165.6,85,250.6,5012,3312,1700,522.52,5,70,1642
+ORD009,2023-03-20,Delhi Book Hub,VR Logistics,2023-03-21,2023-04-01,11,0,Grays Anatomy,Medical,Elsevier India,20,250,85,335,6700,5000,1700,522.52,5,70,1642
+ORD009,2023-03-20,Metro Book Distributors,VR Logistics,2023-03-21,2023-04-01,11,0,One Piece Vol 1,Manga,Viz Media India,20,101.2,70,171.2,3424,2024,1400,522.52,5,70,1642
+ORD009,2023-03-20,Delhi Book Hub,VR Logistics,2023-03-21,2023-04-01,11,0,One Piece Vol 1,Manga,Viz Media India,20,90,60,150,3000,1800,1200,522.52,5,70,1642
+ORD009,2023-03-20,Metro Book Distributors,VR Logistics,2023-03-21,2023-04-01,11,0,Naruto Vol 1,Manga,Viz Media India,20,92,60,152,3040,1840,1200,522.52,5,70,1642
+ORD009,2023-03-20,Delhi Book Hub,VR Logistics,2023-03-21,2023-04-01,11,0,Data Structures in C,Academic,McGraw Hill India,20,150,65,215,4300,3000,1300,522.52,5,70,1642
+ORD009,2023-03-20,Metro Book Distributors,VR Logistics,2023-03-21,2023-04-01,11,0,48 Laws of Power,Self-Help,Penguin India,20,92,60,152,3040,1840,1200,522.52,5,70,1642
+ORD010,2023-04-09,Academic Traders,VR Logistics,2023-04-10,2023-04-18,8,0,The Silent Patient,Fiction,Penguin India,20,94.5,60,154.5,3090,1890,1200,429.69,5,60,1602
+ORD010,2023-04-09,Scholars Market,VR Logistics,2023-04-10,2023-04-18,8,0,It Ends With Us,Fiction,Simon & Schuster India,20,95,60,155,3100,1900,1200,429.69,5,60,1602
+ORD010,2023-04-09,Academic Traders,VR Logistics,2023-04-10,2023-04-18,8,1,Grays Anatomy,Medical,Elsevier India,20,315,85,400,8000,6300,1700,429.69,5,60,1602
+ORD010,2023-04-09,Scholars Market,VR Logistics,2023-04-10,2023-04-18,8,0,Grays Anatomy,Medical,Elsevier India,20,285,85,370,7400,5700,1700,429.69,5,60,1602
+ORD010,2023-04-09,Academic Traders,VR Logistics,2023-04-10,2023-04-18,8,0,Twisted Love,Fiction,Penguin India,20,105,70,175,3500,2100,1400,429.69,5,60,1602
+ORD010,2023-04-09,Scholars Market,VR Logistics,2023-04-10,2023-04-18,8,0,The Silent Patient,Fiction,Penguin India,20,95,60,155,3100,1900,1200,429.69,5,60,1602
+ORD010,2023-04-09,Academic Traders,VR Logistics,2023-04-10,2023-04-18,8,0,Data Structures in C,Academic,McGraw Hill India,20,157.5,85,242.5,4850,3150,1700,429.69,5,60,1602
+ORD010,2023-04-09,Scholars Market,VR Logistics,2023-04-10,2023-04-18,8,0,It Ends With Us,Fiction,Simon & Schuster India,20,85.5,60,145.5,2910,1710,1200,429.69,5,60,1602
+ORD010,2023-04-09,Academic Traders,VR Logistics,2023-04-10,2023-04-18,8,0,Grays Anatomy,Medical,Elsevier India,20,315,85,400,8000,6300,1700,429.69,5,60,1602
+ORD010,2023-04-09,Scholars Market,VR Logistics,2023-04-10,2023-04-18,8,0,One Piece Vol 1,Manga,Viz Media India,20,95,60,155,3100,1900,1200,429.69,5,60,1602
+ORD010,2023-04-09,Academic Traders,VR Logistics,2023-04-10,2023-04-18,8,1,The Silent Patient,Fiction,Penguin India,20,105,70,175,3500,2100,1400,429.69,5,60,1602
+ORD010,2023-04-09,Scholars Market,VR Logistics,2023-04-10,2023-04-18,8,0,48 Laws of Power,Self-Help,Penguin India,20,104.5,70,174.5,3490,2090,1400,429.69,5,60,1602
+ORD010,2023-04-09,Academic Traders,VR Logistics,2023-04-10,2023-04-18,8,0,Naruto Vol 1,Manga,Viz Media India,20,105,70,175,3500,2100,1400,429.69,5,60,1602
+ORD010,2023-04-09,Scholars Market,VR Logistics,2023-04-10,2023-04-18,8,0,Naruto Vol 1,Manga,Viz Media India,20,95,60,155,3100,1900,1200,429.69,5,60,1602
+ORD010,2023-04-09,Academic Traders,VR Logistics,2023-04-10,2023-04-18,8,0,Twisted Love,Fiction,Penguin India,20,94.5,60,154.5,3090,1890,1200,429.69,5,60,1602
+ORD010,2023-04-09,Scholars Market,VR Logistics,2023-04-10,2023-04-18,8,0,It Ends With Us,Fiction,Simon & Schuster India,20,85.5,60,145.5,2910,1710,1200,429.69,5,60,1602
+ORD010,2023-04-09,Academic Traders,VR Logistics,2023-04-10,2023-04-18,8,0,Twisted Love,Fiction,Penguin India,20,105,70,175,3500,2100,1400,429.69,5,60,1602
+ORD010,2023-04-09,Scholars Market,VR Logistics,2023-04-10,2023-04-18,8,0,48 Laws of Power,Self-Help,Penguin India,20,95,60,155,3100,1900,1200,429.69,5,60,1602
+ORD010,2023-04-09,Academic Traders,VR Logistics,2023-04-10,2023-04-18,8,0,One Piece Vol 1,Manga,Viz Media India,20,115.5,70,185.5,3710,2310,1400,429.69,5,60,1602
+ORD011,2023-05-21,Metro Book Distributors,VR Logistics,2023-05-22,2023-05-29,7,0,Engineering Mathematics,Academic,Pearson India,20,165.6,85,250.6,5012,3312,1700,642.85,6,90,1757
+ORD011,2023-05-21,Metro Book Distributors,VR Logistics,2023-05-22,2023-05-29,7,0,Grays Anatomy,Medical,Elsevier India,20,230,85,315,6300,4600,1700,642.85,6,90,1757
+ORD011,2023-05-21,Metro Book Distributors,VR Logistics,2023-05-22,2023-05-29,7,0,Engineering Mathematics,Academic,Pearson India,20,165.6,85,250.6,5012,3312,1700,642.85,6,90,1757
+ORD011,2023-05-21,Metro Book Distributors,VR Logistics,2023-05-22,2023-05-29,7,0,The Silent Patient,Fiction,Penguin India,20,101.2,70,171.2,3424,2024,1400,642.85,6,90,1757
+ORD011,2023-05-21,Metro Book Distributors,VR Logistics,2023-05-22,2023-05-29,7,0,One Piece Vol 1,Manga,Viz Media India,20,92,60,152,3040,1840,1200,642.85,6,90,1757
+ORD011,2023-05-21,Metro Book Distributors,VR Logistics,2023-05-22,2023-05-29,7,0,Grays Anatomy,Medical,Elsevier India,20,276,85,361,7220,5520,1700,642.85,6,90,1757
+ORD011,2023-05-21,Metro Book Distributors,VR Logistics,2023-05-22,2023-05-29,7,0,Naruto Vol 1,Manga,Viz Media India,20,92,60,152,3040,1840,1200,642.85,6,90,1757
+ORD011,2023-05-21,Metro Book Distributors,VR Logistics,2023-05-22,2023-05-29,7,0,Grays Anatomy,Medical,Elsevier India,20,230,85,315,6300,4600,1700,642.85,6,90,1757
+ORD011,2023-05-21,Metro Book Distributors,VR Logistics,2023-05-22,2023-05-29,7,0,The Silent Patient,Fiction,Penguin India,20,82.8,60,142.8,2856,1656,1200,642.85,6,90,1757
+ORD011,2023-05-21,Metro Book Distributors,VR Logistics,2023-05-22,2023-05-29,7,0,Grays Anatomy,Medical,Elsevier India,20,276,85,361,7220,5520,1700,642.85,6,90,1757
+ORD011,2023-05-21,Metro Book Distributors,VR Logistics,2023-05-22,2023-05-29,7,0,Data Structures in C,Academic,McGraw Hill India,20,138,65,203,4060,2760,1300,642.85,6,90,1757
+ORD011,2023-05-21,Metro Book Distributors,VR Logistics,2023-05-22,2023-05-29,7,0,48 Laws of Power,Self-Help,Penguin India,20,101.2,70,171.2,3424,2024,1400,642.85,6,90,1757
+ORD011,2023-05-21,Metro Book Distributors,VR Logistics,2023-05-22,2023-05-29,7,0,Grays Anatomy,Medical,Elsevier India,20,276,85,361,7220,5520,1700,642.85,6,90,1757
+ORD011,2023-05-21,Metro Book Distributors,VR Logistics,2023-05-22,2023-05-29,7,0,One Piece Vol 1,Manga,Viz Media India,20,101.2,70,171.2,3424,2024,1400,642.85,6,90,1757
+ORD011,2023-05-21,Metro Book Distributors,VR Logistics,2023-05-22,2023-05-29,7,0,48 Laws of Power,Self-Help,Penguin India,20,82.8,60,142.8,2856,1656,1200,642.85,6,90,1757
+ORD011,2023-05-21,Metro Book Distributors,VR Logistics,2023-05-22,2023-05-29,7,0,The Silent Patient,Fiction,Penguin India,20,92,60,152,3040,1840,1200,642.85,6,90,1757
+ORD011,2023-05-21,Metro Book Distributors,VR Logistics,2023-05-22,2023-05-29,7,0,Twisted Love,Fiction,Penguin India,20,82.8,60,142.8,2856,1656,1200,642.85,6,90,1757
+ORD011,2023-05-21,Metro Book Distributors,VR Logistics,2023-05-22,2023-05-29,7,0,The Silent Patient,Fiction,Penguin India,20,92,60,152,3040,1840,1200,642.85,6,90,1757
+ORD011,2023-05-21,Metro Book Distributors,VR Logistics,2023-05-22,2023-05-29,7,0,Naruto Vol 1,Manga,Viz Media India,20,101.2,70,171.2,3424,2024,1400,642.85,6,90,1757
+ORD012,2023-06-20,Metro Book Distributors,VR Logistics,2023-06-21,2023-06-28,7,1,The Silent Patient,Fiction,Penguin India,20,92,60,152,3040,1840,1200,494.83,4,68,1623
+ORD012,2023-06-20,Metro Book Distributors,VR Logistics,2023-06-21,2023-06-28,7,0,Twisted Love,Fiction,Penguin India,20,92,60,152,3040,1840,1200,494.83,4,68,1623
+ORD012,2023-06-20,Metro Book Distributors,VR Logistics,2023-06-21,2023-06-28,7,0,It Ends With Us,Fiction,Simon & Schuster India,20,82.8,60,142.8,2856,1656,1200,494.83,4,68,1623
+ORD012,2023-06-20,Metro Book Distributors,VR Logistics,2023-06-21,2023-06-28,7,0,The Silent Patient,Fiction,Penguin India,20,92,60,152,3040,1840,1200,494.83,4,68,1623
+ORD012,2023-06-20,Metro Book Distributors,VR Logistics,2023-06-21,2023-06-28,7,0,Naruto Vol 1,Manga,Viz Media India,20,92,60,152,3040,1840,1200,494.83,4,68,1623
+ORD012,2023-06-20,Metro Book Distributors,VR Logistics,2023-06-21,2023-06-28,7,0,Grays Anatomy,Medical,Elsevier India,20,276,85,361,7220,5520,1700,494.83,4,68,1623
+ORD012,2023-06-20,Metro Book Distributors,VR Logistics,2023-06-21,2023-06-28,7,0,Naruto Vol 1,Manga,Viz Media India,20,101.2,70,171.2,3424,2024,1400,494.83,4,68,1623
+ORD012,2023-06-20,Metro Book Distributors,VR Logistics,2023-06-21,2023-06-28,7,0,Twisted Love,Fiction,Penguin India,20,101.2,70,171.2,3424,2024,1400,494.83,4,68,1623
+ORD012,2023-06-20,Metro Book Distributors,VR Logistics,2023-06-21,2023-06-28,7,0,Grays Anatomy,Medical,Elsevier India,20,230,85,315,6300,4600,1700,494.83,4,68,1623
+ORD012,2023-06-20,Metro Book Distributors,VR Logistics,2023-06-21,2023-06-28,7,0,Naruto Vol 1,Manga,Viz Media India,20,92,60,152,3040,1840,1200,494.83,4,68,1623
+ORD012,2023-06-20,Metro Book Distributors,VR Logistics,2023-06-21,2023-06-28,7,0,Naruto Vol 1,Manga,Viz Media India,20,92,60,152,3040,1840,1200,494.83,4,68,1623
+ORD012,2023-06-20,Metro Book Distributors,VR Logistics,2023-06-21,2023-06-28,7,0,Grays Anatomy,Medical,Elsevier India,20,230,85,315,6300,4600,1700,494.83,4,68,1623
+ORD012,2023-06-20,Metro Book Distributors,VR Logistics,2023-06-21,2023-06-28,7,0,Data Structures in C,Academic,McGraw Hill India,20,165.6,85,250.6,5012,3312,1700,494.83,4,68,1623
+ORD012,2023-06-20,Metro Book Distributors,VR Logistics,2023-06-21,2023-06-28,7,0,One Piece Vol 1,Manga,Viz Media India,20,92,60,152,3040,1840,1200,494.83,4,68,1623
+ORD012,2023-06-20,Metro Book Distributors,VR Logistics,2023-06-21,2023-06-28,7,0,It Ends With Us,Fiction,Simon & Schuster India,20,82.8,60,142.8,2856,1656,1200,494.83,4,68,1623
+ORD012,2023-06-20,Metro Book Distributors,VR Logistics,2023-06-21,2023-06-28,7,0,Grays Anatomy,Medical,Elsevier India,20,230,85,315,6300,4600,1700,494.83,4,68,1623
+ORD013,2023-06-18,Scholars Market,VR Logistics,2023-06-19,2023-06-28,9,0,It Ends With Us,Fiction,Simon & Schuster India,20,104.5,70,174.5,3490,2090,1400,374.89,4,52,1716
+ORD013,2023-06-18,Academic Traders,VR Logistics,2023-06-19,2023-06-28,9,0,48 Laws of Power,Self-Help,Penguin India,20,94.5,60,154.5,3090,1890,1200,374.89,4,52,1716
+ORD013,2023-06-18,Scholars Market,VR Logistics,2023-06-19,2023-06-28,9,1,The Silent Patient,Fiction,Penguin India,20,95,60,155,3100,1900,1200,374.89,4,52,1716
+ORD013,2023-06-18,Academic Traders,VR Logistics,2023-06-19,2023-06-28,9,0,The Silent Patient,Fiction,Penguin India,20,94.5,60,154.5,3090,1890,1200,374.89,4,52,1716
+ORD013,2023-06-18,Scholars Market,VR Logistics,2023-06-19,2023-06-28,9,0,It Ends With Us,Fiction,Simon & Schuster India,20,95,60,155,3100,1900,1200,374.89,4,52,1716
+ORD013,2023-06-18,Academic Traders,VR Logistics,2023-06-19,2023-06-28,9,0,Grays Anatomy,Medical,Elsevier India,20,315,85,400,8000,6300,1700,374.89,4,52,1716
+ORD013,2023-06-18,Scholars Market,VR Logistics,2023-06-19,2023-06-28,9,0,Twisted Love,Fiction,Penguin India,20,85.5,60,145.5,2910,1710,1200,374.89,4,52,1716
+ORD013,2023-06-18,Academic Traders,VR Logistics,2023-06-19,2023-06-28,9,0,Grays Anatomy,Medical,Elsevier India,20,262.5,85,347.5,6950,5250,1700,374.89,4,52,1716
+ORD013,2023-06-18,Scholars Market,VR Logistics,2023-06-19,2023-06-28,9,0,Data Structures in C,Academic,McGraw Hill India,20,171,85,256,5120,3420,1700,374.89,4,52,1716
+ORD013,2023-06-18,Academic Traders,VR Logistics,2023-06-19,2023-06-28,9,0,Engineering Mathematics,Academic,Pearson India,20,189,85,274,5480,3780,1700,374.89,4,52,1716
+ORD013,2023-06-18,Scholars Market,VR Logistics,2023-06-19,2023-06-28,9,0,Twisted Love,Fiction,Penguin India,20,85.5,60,145.5,2910,1710,1200,374.89,4,52,1716
+ORD013,2023-06-18,Academic Traders,VR Logistics,2023-06-19,2023-06-28,9,0,Data Structures in C,Academic,McGraw Hill India,20,157.5,85,242.5,4850,3150,1700,374.89,4,52,1716
+ORD013,2023-06-18,Scholars Market,VR Logistics,2023-06-19,2023-06-28,9,0,It Ends With Us,Fiction,Simon & Schuster India,20,104.5,70,174.5,3490,2090,1400,374.89,4,52,1716
+ORD013,2023-06-18,Academic Traders,VR Logistics,2023-06-19,2023-06-28,9,0,48 Laws of Power,Self-Help,Penguin India,20,105,70,175,3500,2100,1400,374.89,4,52,1716
+ORD013,2023-06-18,Scholars Market,VR Logistics,2023-06-19,2023-06-28,9,0,The Silent Patient,Fiction,Penguin India,20,85.5,60,145.5,2910,1710,1200,374.89,4,52,1716
+ORD013,2023-06-18,Academic Traders,VR Logistics,2023-06-19,2023-06-28,9,0,48 Laws of Power,Self-Help,Penguin India,20,94.5,60,154.5,3090,1890,1200,374.89,4,52,1716
+ORD013,2023-06-18,Scholars Market,VR Logistics,2023-06-19,2023-06-28,9,0,Naruto Vol 1,Manga,Viz Media India,20,85.5,60,145.5,2910,1710,1200,374.89,4,52,1716
+ORD013,2023-06-18,Academic Traders,VR Logistics,2023-06-19,2023-06-28,9,0,The Silent Patient,Fiction,Penguin India,20,115.5,70,185.5,3710,2310,1400,374.89,4,52,1716
+ORD014,2023-07-07,Metro Book Distributors,VR Logistics,2023-07-08,2023-07-16,8,0,It Ends With Us,Fiction,Simon & Schuster India,20,82.8,60,142.8,2856,1656,1200,626.2,6,84,1699
+ORD014,2023-07-07,Metro Book Distributors,VR Logistics,2023-07-08,2023-07-16,8,0,It Ends With Us,Fiction,Simon & Schuster India,20,101.2,70,171.2,3424,2024,1400,626.2,6,84,1699
+ORD014,2023-07-07,Metro Book Distributors,VR Logistics,2023-07-08,2023-07-16,8,0,Naruto Vol 1,Manga,Viz Media India,20,82.8,60,142.8,2856,1656,1200,626.2,6,84,1699
+ORD014,2023-07-07,Metro Book Distributors,VR Logistics,2023-07-08,2023-07-16,8,0,The Silent Patient,Fiction,Penguin India,20,92,60,152,3040,1840,1200,626.2,6,84,1699
+ORD014,2023-07-07,Metro Book Distributors,VR Logistics,2023-07-08,2023-07-16,8,0,Data Structures in C,Academic,McGraw Hill India,20,165.6,85,250.6,5012,3312,1700,626.2,6,84,1699
+ORD014,2023-07-07,Metro Book Distributors,VR Logistics,2023-07-08,2023-07-16,8,0,It Ends With Us,Fiction,Simon & Schuster India,20,82.8,60,142.8,2856,1656,1200,626.2,6,84,1699
+ORD014,2023-07-07,Metro Book Distributors,VR Logistics,2023-07-08,2023-07-16,8,0,Twisted Love,Fiction,Penguin India,20,101.2,70,171.2,3424,2024,1400,626.2,6,84,1699
+ORD014,2023-07-07,Metro Book Distributors,VR Logistics,2023-07-08,2023-07-16,8,0,The Silent Patient,Fiction,Penguin India,20,101.2,70,171.2,3424,2024,1400,626.2,6,84,1699
+ORD014,2023-07-07,Metro Book Distributors,VR Logistics,2023-07-08,2023-07-16,8,0,The Silent Patient,Fiction,Penguin India,20,92,60,152,3040,1840,1200,626.2,6,84,1699
+ORD014,2023-07-07,Metro Book Distributors,VR Logistics,2023-07-08,2023-07-16,8,0,It Ends With Us,Fiction,Simon & Schuster India,20,101.2,70,171.2,3424,2024,1400,626.2,6,84,1699
+ORD014,2023-07-07,Metro Book Distributors,VR Logistics,2023-07-08,2023-07-16,8,0,48 Laws of Power,Self-Help,Penguin India,20,92,60,152,3040,1840,1200,626.2,6,84,1699
+ORD014,2023-07-07,Metro Book Distributors,VR Logistics,2023-07-08,2023-07-16,8,0,Engineering Mathematics,Academic,Pearson India,20,165.6,85,250.6,5012,3312,1700,626.2,6,84,1699
+ORD014,2023-07-07,Metro Book Distributors,VR Logistics,2023-07-08,2023-07-16,8,0,The Silent Patient,Fiction,Penguin India,20,92,60,152,3040,1840,1200,626.2,6,84,1699
+ORD014,2023-07-07,Metro Book Distributors,VR Logistics,2023-07-08,2023-07-16,8,0,Twisted Love,Fiction,Penguin India,20,82.8,60,142.8,2856,1656,1200,626.2,6,84,1699
+ORD014,2023-07-07,Metro Book Distributors,VR Logistics,2023-07-08,2023-07-16,8,0,Engineering Mathematics,Academic,Pearson India,20,138,65,203,4060,2760,1300,626.2,6,84,1699
+ORD015,2023-08-13,Metro Book Distributors,IRCTC Cargo,2023-08-14,2023-08-21,7,0,One Piece Vol 1,Manga,Viz Media India,20,92,60,152,3040,1840,1200,960,3,48,1838
+ORD015,2023-08-13,Scholars Market,IRCTC Cargo,2023-08-14,2023-08-21,7,0,It Ends With Us,Fiction,Simon & Schuster India,20,85.5,60,145.5,2910,1710,1200,960,3,48,1838
+ORD015,2023-08-13,Metro Book Distributors,IRCTC Cargo,2023-08-14,2023-08-21,7,0,Naruto Vol 1,Manga,Viz Media India,20,101.2,70,171.2,3424,2024,1400,960,3,48,1838
+ORD015,2023-08-13,Scholars Market,IRCTC Cargo,2023-08-14,2023-08-21,7,0,One Piece Vol 1,Manga,Viz Media India,20,104.5,70,174.5,3490,2090,1400,960,3,48,1838
+ORD015,2023-08-13,Metro Book Distributors,IRCTC Cargo,2023-08-14,2023-08-21,7,0,The Silent Patient,Fiction,Penguin India,20,101.2,70,171.2,3424,2024,1400,960,3,48,1838
+ORD015,2023-08-13,Scholars Market,IRCTC Cargo,2023-08-14,2023-08-21,7,0,Grays Anatomy,Medical,Elsevier India,20,285,85,370,7400,5700,1700,960,3,48,1838
+ORD015,2023-08-13,Metro Book Distributors,IRCTC Cargo,2023-08-14,2023-08-21,7,0,Twisted Love,Fiction,Penguin India,20,101.2,70,171.2,3424,2024,1400,960,3,48,1838
+ORD015,2023-08-13,Scholars Market,IRCTC Cargo,2023-08-14,2023-08-21,7,1,Naruto Vol 1,Manga,Viz Media India,20,95,60,155,3100,1900,1200,960,3,48,1838
+ORD015,2023-08-13,Metro Book Distributors,IRCTC Cargo,2023-08-14,2023-08-21,7,0,Twisted Love,Fiction,Penguin India,20,82.8,60,142.8,2856,1656,1200,960,3,48,1838
+ORD015,2023-08-13,Scholars Market,IRCTC Cargo,2023-08-14,2023-08-21,7,0,Twisted Love,Fiction,Penguin India,20,85.5,60,145.5,2910,1710,1200,960,3,48,1838
+ORD015,2023-08-13,Metro Book Distributors,IRCTC Cargo,2023-08-14,2023-08-21,7,1,Twisted Love,Fiction,Penguin India,20,92,60,152,3040,1840,1200,960,3,48,1838
+ORD015,2023-08-13,Scholars Market,IRCTC Cargo,2023-08-14,2023-08-21,7,0,Grays Anatomy,Medical,Elsevier India,20,285,85,370,7400,5700,1700,960,3,48,1838
+ORD015,2023-08-13,Metro Book Distributors,IRCTC Cargo,2023-08-14,2023-08-21,7,0,48 Laws of Power,Self-Help,Penguin India,20,82.8,60,142.8,2856,1656,1200,960,3,48,1838
+ORD015,2023-08-13,Scholars Market,IRCTC Cargo,2023-08-14,2023-08-21,7,0,Engineering Mathematics,Academic,Pearson India,20,142.5,65,207.5,4150,2850,1300,960,3,48,1838
+ORD015,2023-08-13,Metro Book Distributors,IRCTC Cargo,2023-08-14,2023-08-21,7,0,It Ends With Us,Fiction,Simon & Schuster India,20,82.8,60,142.8,2856,1656,1200,960,3,48,1838
+ORD015,2023-08-13,Scholars Market,IRCTC Cargo,2023-08-14,2023-08-21,7,0,Naruto Vol 1,Manga,Viz Media India,20,85.5,60,145.5,2910,1710,1200,960,3,48,1838
+ORD015,2023-08-13,Metro Book Distributors,IRCTC Cargo,2023-08-14,2023-08-21,7,0,Engineering Mathematics,Academic,Pearson India,20,165.6,85,250.6,5012,3312,1700,960,3,48,1838
+ORD015,2023-08-13,Scholars Market,IRCTC Cargo,2023-08-14,2023-08-21,7,0,It Ends With Us,Fiction,Simon & Schuster India,20,95,60,155,3100,1900,1200,960,3,48,1838
+ORD015,2023-08-13,Metro Book Distributors,IRCTC Cargo,2023-08-14,2023-08-21,7,0,Twisted Love,Fiction,Penguin India,20,82.8,60,142.8,2856,1656,1200,960,3,48,1838
+ORD015,2023-08-13,Scholars Market,IRCTC Cargo,2023-08-14,2023-08-21,7,0,One Piece Vol 1,Manga,Viz Media India,20,104.5,70,174.5,3490,2090,1400,960,3,48,1838
+ORD016,2023-09-01,Delhi Book Hub,VR Logistics,2023-09-02,2023-09-13,11,0,Twisted Love,Fiction,Penguin India,20,110,70,180,3600,2200,1400,375.86,4,48,1544
+ORD016,2023-09-01,Metro Book Distributors,VR Logistics,2023-09-02,2023-09-13,11,0,The Silent Patient,Fiction,Penguin India,20,92,60,152,3040,1840,1200,375.86,4,48,1544
+ORD016,2023-09-01,Delhi Book Hub,VR Logistics,2023-09-02,2023-09-13,11,0,Twisted Love,Fiction,Penguin India,20,100,70,170,3400,2000,1400,375.86,4,48,1544
+ORD016,2023-09-01,Metro Book Distributors,VR Logistics,2023-09-02,2023-09-13,11,0,Naruto Vol 1,Manga,Viz Media India,20,101.2,70,171.2,3424,2024,1400,375.86,4,48,1544
+ORD016,2023-09-01,Delhi Book Hub,VR Logistics,2023-09-02,2023-09-13,11,0,It Ends With Us,Fiction,Simon & Schuster India,20,100,70,170,3400,2000,1400,375.86,4,48,1544
+ORD016,2023-09-01,Metro Book Distributors,VR Logistics,2023-09-02,2023-09-13,11,0,48 Laws of Power,Self-Help,Penguin India,20,92,60,152,3040,1840,1200,375.86,4,48,1544
+ORD016,2023-09-01,Delhi Book Hub,VR Logistics,2023-09-02,2023-09-13,11,0,48 Laws of Power,Self-Help,Penguin India,20,110,70,180,3600,2200,1400,375.86,4,48,1544
+ORD016,2023-09-01,Metro Book Distributors,VR Logistics,2023-09-02,2023-09-13,11,0,Engineering Mathematics,Academic,Pearson India,20,138,65,203,4060,2760,1300,375.86,4,48,1544
+ORD016,2023-09-01,Delhi Book Hub,VR Logistics,2023-09-02,2023-09-13,11,0,Twisted Love,Fiction,Penguin India,20,110,70,180,3600,2200,1400,375.86,4,48,1544
+ORD016,2023-09-01,Metro Book Distributors,VR Logistics,2023-09-02,2023-09-13,11,0,48 Laws of Power,Self-Help,Penguin India,20,101.2,70,171.2,3424,2024,1400,375.86,4,48,1544
+ORD016,2023-09-01,Delhi Book Hub,VR Logistics,2023-09-02,2023-09-13,11,0,It Ends With Us,Fiction,Simon & Schuster India,20,110,70,180,3600,2200,1400,375.86,4,48,1544
+ORD016,2023-09-01,Metro Book Distributors,VR Logistics,2023-09-02,2023-09-13,11,0,It Ends With Us,Fiction,Simon & Schuster India,20,101.2,70,171.2,3424,2024,1400,375.86,4,48,1544
+ORD016,2023-09-01,Delhi Book Hub,VR Logistics,2023-09-02,2023-09-13,11,0,Naruto Vol 1,Manga,Viz Media India,20,110,70,180,3600,2200,1400,375.86,4,48,1544
+ORD016,2023-09-01,Metro Book Distributors,VR Logistics,2023-09-02,2023-09-13,11,0,Engineering Mathematics,Academic,Pearson India,20,165.6,85,250.6,5012,3312,1700,375.86,4,48,1544
+ORD016,2023-09-01,Delhi Book Hub,VR Logistics,2023-09-02,2023-09-13,11,0,Naruto Vol 1,Manga,Viz Media India,20,100,70,170,3400,2000,1400,375.86,4,48,1544
+ORD016,2023-09-01,Metro Book Distributors,VR Logistics,2023-09-02,2023-09-13,11,0,It Ends With Us,Fiction,Simon & Schuster India,20,92,60,152,3040,1840,1200,375.86,4,48,1544
+ORD017,2023-10-04,Delhi Book Hub,VR Logistics,2023-10-05,2023-10-15,10,0,The Silent Patient,Fiction,Penguin India,20,100,70,170,3400,2000,1400,817.85,6,108,1619
+ORD017,2023-10-04,Metro Book Distributors,VR Logistics,2023-10-05,2023-10-15,10,0,Twisted Love,Fiction,Penguin India,20,101.2,70,171.2,3424,2024,1400,817.85,6,108,1619
+ORD017,2023-10-04,Delhi Book Hub,VR Logistics,2023-10-05,2023-10-15,10,0,Engineering Mathematics,Academic,Pearson India,20,180,85,265,5300,3600,1700,817.85,6,108,1619
+ORD017,2023-10-04,Metro Book Distributors,VR Logistics,2023-10-05,2023-10-15,10,0,One Piece Vol 1,Manga,Viz Media India,20,101.2,70,171.2,3424,2024,1400,817.85,6,108,1619
+ORD017,2023-10-04,Delhi Book Hub,VR Logistics,2023-10-05,2023-10-15,10,0,Data Structures in C,Academic,McGraw Hill India,20,150,65,215,4300,3000,1300,817.85,6,108,1619
+ORD017,2023-10-04,Metro Book Distributors,VR Logistics,2023-10-05,2023-10-15,10,0,48 Laws of Power,Self-Help,Penguin India,20,92,60,152,3040,1840,1200,817.85,6,108,1619
+ORD017,2023-10-04,Delhi Book Hub,VR Logistics,2023-10-05,2023-10-15,10,0,48 Laws of Power,Self-Help,Penguin India,20,100,70,170,3400,2000,1400,817.85,6,108,1619
+ORD017,2023-10-04,Metro Book Distributors,VR Logistics,2023-10-05,2023-10-15,10,0,It Ends With Us,Fiction,Simon & Schuster India,20,101.2,70,171.2,3424,2024,1400,817.85,6,108,1619
+ORD017,2023-10-04,Delhi Book Hub,VR Logistics,2023-10-05,2023-10-15,10,0,Naruto Vol 1,Manga,Viz Media India,20,100,70,170,3400,2000,1400,817.85,6,108,1619
+ORD017,2023-10-04,Metro Book Distributors,VR Logistics,2023-10-05,2023-10-15,10,0,The Silent Patient,Fiction,Penguin India,20,92,60,152,3040,1840,1200,817.85,6,108,1619
+ORD017,2023-10-04,Delhi Book Hub,VR Logistics,2023-10-05,2023-10-15,10,0,48 Laws of Power,Self-Help,Penguin India,20,110,70,180,3600,2200,1400,817.85,6,108,1619
+ORD017,2023-10-04,Metro Book Distributors,VR Logistics,2023-10-05,2023-10-15,10,0,Twisted Love,Fiction,Penguin India,20,92,60,152,3040,1840,1200,817.85,6,108,1619
+ORD017,2023-10-04,Delhi Book Hub,VR Logistics,2023-10-05,2023-10-15,10,0,Twisted Love,Fiction,Penguin India,20,90,60,150,3000,1800,1200,817.85,6,108,1619
+ORD017,2023-10-04,Metro Book Distributors,VR Logistics,2023-10-05,2023-10-15,10,0,Grays Anatomy,Medical,Elsevier India,20,276,85,361,7220,5520,1700,817.85,6,108,1619
+ORD017,2023-10-04,Delhi Book Hub,VR Logistics,2023-10-05,2023-10-15,10,0,Twisted Love,Fiction,Penguin India,20,100,70,170,3400,2000,1400,817.85,6,108,1619
+ORD018,2023-11-12,Metro Book Distributors,VR Logistics,2023-11-13,2023-11-21,8,0,Engineering Mathematics,Academic,Pearson India,20,165.6,85,250.6,5012,3312,1700,591.59,5,75,1807
+ORD018,2023-11-12,Academic Traders,VR Logistics,2023-11-13,2023-11-21,8,0,It Ends With Us,Fiction,Simon & Schuster India,20,94.5,60,154.5,3090,1890,1200,591.59,5,75,1807
+ORD018,2023-11-12,Metro Book Distributors,VR Logistics,2023-11-13,2023-11-21,8,0,One Piece Vol 1,Manga,Viz Media India,20,101.2,70,171.2,3424,2024,1400,591.59,5,75,1807
+ORD018,2023-11-12,Academic Traders,VR Logistics,2023-11-13,2023-11-21,8,0,Grays Anatomy,Medical,Elsevier India,20,262.5,85,347.5,6950,5250,1700,591.59,5,75,1807
+ORD018,2023-11-12,Metro Book Distributors,VR Logistics,2023-11-13,2023-11-21,8,0,Data Structures in C,Academic,McGraw Hill India,20,165.6,85,250.6,5012,3312,1700,591.59,5,75,1807
+ORD018,2023-11-12,Academic Traders,VR Logistics,2023-11-13,2023-11-21,8,0,Naruto Vol 1,Manga,Viz Media India,20,94.5,60,154.5,3090,1890,1200,591.59,5,75,1807
+ORD018,2023-11-12,Metro Book Distributors,VR Logistics,2023-11-13,2023-11-21,8,0,48 Laws of Power,Self-Help,Penguin India,20,82.8,60,142.8,2856,1656,1200,591.59,5,75,1807
+ORD018,2023-11-12,Academic Traders,VR Logistics,2023-11-13,2023-11-21,8,0,One Piece Vol 1,Manga,Viz Media India,20,115.5,70,185.5,3710,2310,1400,591.59,5,75,1807
+ORD018,2023-11-12,Metro Book Distributors,VR Logistics,2023-11-13,2023-11-21,8,0,It Ends With Us,Fiction,Simon & Schuster India,20,92,60,152,3040,1840,1200,591.59,5,75,1807
+ORD018,2023-11-12,Academic Traders,VR Logistics,2023-11-13,2023-11-21,8,0,It Ends With Us,Fiction,Simon & Schuster India,20,115.5,70,185.5,3710,2310,1400,591.59,5,75,1807
+ORD018,2023-11-12,Metro Book Distributors,VR Logistics,2023-11-13,2023-11-21,8,0,The Silent Patient,Fiction,Penguin India,20,101.2,70,171.2,3424,2024,1400,591.59,5,75,1807
+ORD018,2023-11-12,Academic Traders,VR Logistics,2023-11-13,2023-11-21,8,0,Twisted Love,Fiction,Penguin India,20,94.5,60,154.5,3090,1890,1200,591.59,5,75,1807
+ORD018,2023-11-12,Metro Book Distributors,VR Logistics,2023-11-13,2023-11-21,8,0,Twisted Love,Fiction,Penguin India,20,101.2,70,171.2,3424,2024,1400,591.59,5,75,1807
+ORD018,2023-11-12,Academic Traders,VR Logistics,2023-11-13,2023-11-21,8,0,48 Laws of Power,Self-Help,Penguin India,20,105,70,175,3500,2100,1400,591.59,5,75,1807
+ORD018,2023-11-12,Metro Book Distributors,VR Logistics,2023-11-13,2023-11-21,8,0,Grays Anatomy,Medical,Elsevier India,20,276,85,361,7220,5520,1700,591.59,5,75,1807
+ORD018,2023-11-12,Academic Traders,VR Logistics,2023-11-13,2023-11-21,8,0,One Piece Vol 1,Manga,Viz Media India,20,105,70,175,3500,2100,1400,591.59,5,75,1807
+ORD019,2023-11-13,Delhi Book Hub,VR Logistics,2023-11-14,2023-11-23,9,0,Grays Anatomy,Medical,Elsevier India,20,300,85,385,7700,6000,1700,541.95,5,70,1599
+ORD019,2023-11-13,Metro Book Distributors,VR Logistics,2023-11-14,2023-11-23,9,0,It Ends With Us,Fiction,Simon & Schuster India,20,92,60,152,3040,1840,1200,541.95,5,70,1599
+ORD019,2023-11-13,Delhi Book Hub,VR Logistics,2023-11-14,2023-11-23,9,0,Twisted Love,Fiction,Penguin India,20,110,70,180,3600,2200,1400,541.95,5,70,1599
+ORD019,2023-11-13,Metro Book Distributors,VR Logistics,2023-11-14,2023-11-23,9,0,One Piece Vol 1,Manga,Viz Media India,20,101.2,70,171.2,3424,2024,1400,541.95,5,70,1599
+ORD019,2023-11-13,Delhi Book Hub,VR Logistics,2023-11-14,2023-11-23,9,0,The Silent Patient,Fiction,Penguin India,20,110,70,180,3600,2200,1400,541.95,5,70,1599
+ORD019,2023-11-13,Metro Book Distributors,VR Logistics,2023-11-14,2023-11-23,9,0,The Silent Patient,Fiction,Penguin India,20,82.8,60,142.8,2856,1656,1200,541.95,5,70,1599
+ORD019,2023-11-13,Delhi Book Hub,VR Logistics,2023-11-14,2023-11-23,9,0,It Ends With Us,Fiction,Simon & Schuster India,20,90,60,150,3000,1800,1200,541.95,5,70,1599
+ORD019,2023-11-13,Metro Book Distributors,VR Logistics,2023-11-14,2023-11-23,9,0,Data Structures in C,Academic,McGraw Hill India,20,138,65,203,4060,2760,1300,541.95,5,70,1599
+ORD019,2023-11-13,Delhi Book Hub,VR Logistics,2023-11-14,2023-11-23,9,0,It Ends With Us,Fiction,Simon & Schuster India,20,90,60,150,3000,1800,1200,541.95,5,70,1599
+ORD019,2023-11-13,Metro Book Distributors,VR Logistics,2023-11-14,2023-11-23,9,0,Engineering Mathematics,Academic,Pearson India,20,165.6,85,250.6,5012,3312,1700,541.95,5,70,1599
+ORD019,2023-11-13,Delhi Book Hub,VR Logistics,2023-11-14,2023-11-23,9,0,One Piece Vol 1,Manga,Viz Media India,20,100,70,170,3400,2000,1400,541.95,5,70,1599
+ORD019,2023-11-13,Metro Book Distributors,VR Logistics,2023-11-14,2023-11-23,9,0,Data Structures in C,Academic,McGraw Hill India,20,165.6,85,250.6,5012,3312,1700,541.95,5,70,1599
+ORD019,2023-11-13,Delhi Book Hub,VR Logistics,2023-11-14,2023-11-23,9,0,Twisted Love,Fiction,Penguin India,20,90,60,150,3000,1800,1200,541.95,5,70,1599
+ORD019,2023-11-13,Metro Book Distributors,VR Logistics,2023-11-14,2023-11-23,9,0,48 Laws of Power,Self-Help,Penguin India,20,82.8,60,142.8,2856,1656,1200,541.95,5,70,1599
+ORD019,2023-11-13,Delhi Book Hub,VR Logistics,2023-11-14,2023-11-23,9,1,The Silent Patient,Fiction,Penguin India,20,100,70,170,3400,2000,1400,541.95,5,70,1599
+ORD019,2023-11-13,Metro Book Distributors,VR Logistics,2023-11-14,2023-11-23,9,0,One Piece Vol 1,Manga,Viz Media India,20,82.8,60,142.8,2856,1656,1200,541.95,5,70,1599
+ORD019,2023-11-13,Delhi Book Hub,VR Logistics,2023-11-14,2023-11-23,9,0,Engineering Mathematics,Academic,Pearson India,20,180,85,265,5300,3600,1700,541.95,5,70,1599
+ORD020,2023-12-15,Metro Book Distributors,SRB Logistics,2023-12-16,2023-12-24,8,0,Naruto Vol 1,Manga,Viz Media India,20,101.2,70,171.2,3424,2024,1400,432,3,54,1582
+ORD020,2023-12-15,Scholars Market,SRB Logistics,2023-12-16,2023-12-24,8,0,48 Laws of Power,Self-Help,Penguin India,20,85.5,60,145.5,2910,1710,1200,432,3,54,1582
+ORD020,2023-12-15,Metro Book Distributors,SRB Logistics,2023-12-16,2023-12-24,8,0,48 Laws of Power,Self-Help,Penguin India,20,92,60,152,3040,1840,1200,432,3,54,1582
+ORD020,2023-12-15,Scholars Market,SRB Logistics,2023-12-16,2023-12-24,8,0,Twisted Love,Fiction,Penguin India,20,104.5,70,174.5,3490,2090,1400,432,3,54,1582
+ORD020,2023-12-15,Metro Book Distributors,SRB Logistics,2023-12-16,2023-12-24,8,0,Naruto Vol 1,Manga,Viz Media India,20,92,60,152,3040,1840,1200,432,3,54,1582
+ORD020,2023-12-15,Scholars Market,SRB Logistics,2023-12-16,2023-12-24,8,0,Naruto Vol 1,Manga,Viz Media India,20,104.5,70,174.5,3490,2090,1400,432,3,54,1582
+ORD020,2023-12-15,Metro Book Distributors,SRB Logistics,2023-12-16,2023-12-24,8,0,Twisted Love,Fiction,Penguin India,20,101.2,70,171.2,3424,2024,1400,432,3,54,1582
+ORD020,2023-12-15,Scholars Market,SRB Logistics,2023-12-16,2023-12-24,8,0,48 Laws of Power,Self-Help,Penguin India,20,104.5,70,174.5,3490,2090,1400,432,3,54,1582
+ORD020,2023-12-15,Metro Book Distributors,SRB Logistics,2023-12-16,2023-12-24,8,0,It Ends With Us,Fiction,Simon & Schuster India,20,101.2,70,171.2,3424,2024,1400,432,3,54,1582
+ORD020,2023-12-15,Scholars Market,SRB Logistics,2023-12-16,2023-12-24,8,0,Twisted Love,Fiction,Penguin India,20,95,60,155,3100,1900,1200,432,3,54,1582
+ORD020,2023-12-15,Metro Book Distributors,SRB Logistics,2023-12-16,2023-12-24,8,0,The Silent Patient,Fiction,Penguin India,20,101.2,70,171.2,3424,2024,1400,432,3,54,1582
+ORD020,2023-12-15,Scholars Market,SRB Logistics,2023-12-16,2023-12-24,8,0,It Ends With Us,Fiction,Simon & Schuster India,20,85.5,60,145.5,2910,1710,1200,432,3,54,1582
+ORD020,2023-12-15,Metro Book Distributors,SRB Logistics,2023-12-16,2023-12-24,8,0,It Ends With Us,Fiction,Simon & Schuster India,20,82.8,60,142.8,2856,1656,1200,432,3,54,1582
+ORD020,2023-12-15,Scholars Market,SRB Logistics,2023-12-16,2023-12-24,8,0,Twisted Love,Fiction,Penguin India,20,95,60,155,3100,1900,1200,432,3,54,1582
+ORD020,2023-12-15,Metro Book Distributors,SRB Logistics,2023-12-16,2023-12-24,8,0,It Ends With Us,Fiction,Simon & Schuster India,20,82.8,60,142.8,2856,1656,1200,432,3,54,1582
+ORD020,2023-12-15,Scholars Market,SRB Logistics,2023-12-16,2023-12-24,8,0,Grays Anatomy,Medical,Elsevier India,20,285,85,370,7400,5700,1700,432,3,54,1582
+ORD021,2023-12-06,Delhi Book Hub,VR Logistics,2023-12-07,2023-12-18,11,0,One Piece Vol 1,Manga,Viz Media India,20,90,60,150,3000,1800,1200,715.6,6,90,1874
+ORD021,2023-12-06,Metro Book Distributors,VR Logistics,2023-12-07,2023-12-18,11,0,The Silent Patient,Fiction,Penguin India,20,92,60,152,3040,1840,1200,715.6,6,90,1874
+ORD021,2023-12-06,Delhi Book Hub,VR Logistics,2023-12-07,2023-12-18,11,0,One Piece Vol 1,Manga,Viz Media India,20,110,70,180,3600,2200,1400,715.6,6,90,1874
+ORD021,2023-12-06,Metro Book Distributors,VR Logistics,2023-12-07,2023-12-18,11,0,One Piece Vol 1,Manga,Viz Media India,20,82.8,60,142.8,2856,1656,1200,715.6,6,90,1874
+ORD021,2023-12-06,Delhi Book Hub,VR Logistics,2023-12-07,2023-12-18,11,0,One Piece Vol 1,Manga,Viz Media India,20,100,70,170,3400,2000,1400,715.6,6,90,1874
+ORD021,2023-12-06,Metro Book Distributors,VR Logistics,2023-12-07,2023-12-18,11,0,Naruto Vol 1,Manga,Viz Media India,20,101.2,70,171.2,3424,2024,1400,715.6,6,90,1874
+ORD021,2023-12-06,Delhi Book Hub,VR Logistics,2023-12-07,2023-12-18,11,0,One Piece Vol 1,Manga,Viz Media India,20,100,70,170,3400,2000,1400,715.6,6,90,1874
+ORD021,2023-12-06,Metro Book Distributors,VR Logistics,2023-12-07,2023-12-18,11,0,Twisted Love,Fiction,Penguin India,20,101.2,70,171.2,3424,2024,1400,715.6,6,90,1874
+ORD021,2023-12-06,Delhi Book Hub,VR Logistics,2023-12-07,2023-12-18,11,1,Data Structures in C,Academic,McGraw Hill India,20,180,85,265,5300,3600,1700,715.6,6,90,1874
+ORD021,2023-12-06,Metro Book Distributors,VR Logistics,2023-12-07,2023-12-18,11,0,One Piece Vol 1,Manga,Viz Media India,20,82.8,60,142.8,2856,1656,1200,715.6,6,90,1874
+ORD021,2023-12-06,Delhi Book Hub,VR Logistics,2023-12-07,2023-12-18,11,0,Naruto Vol 1,Manga,Viz Media India,20,90,60,150,3000,1800,1200,715.6,6,90,1874
+ORD021,2023-12-06,Metro Book Distributors,VR Logistics,2023-12-07,2023-12-18,11,0,Grays Anatomy,Medical,Elsevier India,20,276,85,361,7220,5520,1700,715.6,6,90,1874
+ORD021,2023-12-06,Delhi Book Hub,VR Logistics,2023-12-07,2023-12-18,11,0,Naruto Vol 1,Manga,Viz Media India,20,110,70,180,3600,2200,1400,715.6,6,90,1874
+ORD021,2023-12-06,Metro Book Distributors,VR Logistics,2023-12-07,2023-12-18,11,0,Data Structures in C,Academic,McGraw Hill India,20,165.6,85,250.6,5012,3312,1700,715.6,6,90,1874
+ORD021,2023-12-06,Delhi Book Hub,VR Logistics,2023-12-07,2023-12-18,11,0,48 Laws of Power,Self-Help,Penguin India,20,100,70,170,3400,2000,1400,715.6,6,90,1874
+ORD021,2023-12-06,Metro Book Distributors,VR Logistics,2023-12-07,2023-12-18,11,0,One Piece Vol 1,Manga,Viz Media India,20,92,60,152,3040,1840,1200,715.6,6,90,1874
+ORD021,2023-12-06,Delhi Book Hub,VR Logistics,2023-12-07,2023-12-18,11,0,Naruto Vol 1,Manga,Viz Media India,20,110,70,180,3600,2200,1400,715.6,6,90,1874
+ORD021,2023-12-06,Metro Book Distributors,VR Logistics,2023-12-07,2023-12-18,11,0,Twisted Love,Fiction,Penguin India,20,92,60,152,3040,1840,1200,715.6,6,90,1874
+ORD021,2023-12-06,Delhi Book Hub,VR Logistics,2023-12-07,2023-12-18,11,0,Naruto Vol 1,Manga,Viz Media India,20,100,70,170,3400,2000,1400,715.6,6,90,1874
+ORD021,2023-12-06,Metro Book Distributors,VR Logistics,2023-12-07,2023-12-18,11,0,48 Laws of Power,Self-Help,Penguin India,20,101.2,70,171.2,3424,2024,1400,715.6,6,90,1874
+ORD022,2024-01-10,Delhi Book Hub,VR Logistics,2024-01-11,2024-01-21,10,0,Data Structures in C,Academic,McGraw Hill India,20,180,85,265,5300,3600,1700,417.71,3,54,1526
+ORD022,2024-01-10,Metro Book Distributors,VR Logistics,2024-01-11,2024-01-21,10,0,Engineering Mathematics,Academic,Pearson India,20,165.6,85,250.6,5012,3312,1700,417.71,3,54,1526
+ORD022,2024-01-10,Delhi Book Hub,VR Logistics,2024-01-11,2024-01-21,10,0,Twisted Love,Fiction,Penguin India,20,110,70,180,3600,2200,1400,417.71,3,54,1526
+ORD022,2024-01-10,Metro Book Distributors,VR Logistics,2024-01-11,2024-01-21,10,0,It Ends With Us,Fiction,Simon & Schuster India,20,92,60,152,3040,1840,1200,417.71,3,54,1526
+ORD022,2024-01-10,Delhi Book Hub,VR Logistics,2024-01-11,2024-01-21,10,0,One Piece Vol 1,Manga,Viz Media India,20,110,70,180,3600,2200,1400,417.71,3,54,1526
+ORD022,2024-01-10,Metro Book Distributors,VR Logistics,2024-01-11,2024-01-21,10,0,Engineering Mathematics,Academic,Pearson India,20,138,65,203,4060,2760,1300,417.71,3,54,1526
+ORD022,2024-01-10,Delhi Book Hub,VR Logistics,2024-01-11,2024-01-21,10,0,The Silent Patient,Fiction,Penguin India,20,100,70,170,3400,2000,1400,417.71,3,54,1526
+ORD022,2024-01-10,Metro Book Distributors,VR Logistics,2024-01-11,2024-01-21,10,0,Twisted Love,Fiction,Penguin India,20,82.8,60,142.8,2856,1656,1200,417.71,3,54,1526
+ORD022,2024-01-10,Delhi Book Hub,VR Logistics,2024-01-11,2024-01-21,10,0,Engineering Mathematics,Academic,Pearson India,20,180,85,265,5300,3600,1700,417.71,3,54,1526
+ORD022,2024-01-10,Metro Book Distributors,VR Logistics,2024-01-11,2024-01-21,10,0,The Silent Patient,Fiction,Penguin India,20,92,60,152,3040,1840,1200,417.71,3,54,1526
+ORD022,2024-01-10,Delhi Book Hub,VR Logistics,2024-01-11,2024-01-21,10,0,Grays Anatomy,Medical,Elsevier India,20,300,85,385,7700,6000,1700,417.71,3,54,1526
+ORD022,2024-01-10,Metro Book Distributors,VR Logistics,2024-01-11,2024-01-21,10,0,One Piece Vol 1,Manga,Viz Media India,20,82.8,60,142.8,2856,1656,1200,417.71,3,54,1526
+ORD022,2024-01-10,Delhi Book Hub,VR Logistics,2024-01-11,2024-01-21,10,0,Twisted Love,Fiction,Penguin India,20,90,60,150,3000,1800,1200,417.71,3,54,1526
+ORD022,2024-01-10,Metro Book Distributors,VR Logistics,2024-01-11,2024-01-21,10,0,48 Laws of Power,Self-Help,Penguin India,20,101.2,70,171.2,3424,2024,1400,417.71,3,54,1526
+ORD022,2024-01-10,Delhi Book Hub,VR Logistics,2024-01-11,2024-01-21,10,0,The Silent Patient,Fiction,Penguin India,20,90,60,150,3000,1800,1200,417.71,3,54,1526
+ORD023,2024-02-05,Academic Traders,VR Logistics,2024-02-06,2024-02-13,7,0,Naruto Vol 1,Manga,Viz Media India,20,94.5,60,154.5,3090,1890,1200,538.72,5,70,1813
+ORD023,2024-02-05,Delhi Book Hub,VR Logistics,2024-02-06,2024-02-13,7,1,One Piece Vol 1,Manga,Viz Media India,20,100,70,170,3400,2000,1400,538.72,5,70,1813
+ORD023,2024-02-05,Academic Traders,VR Logistics,2024-02-06,2024-02-13,7,0,Naruto Vol 1,Manga,Viz Media India,20,94.5,60,154.5,3090,1890,1200,538.72,5,70,1813
+ORD023,2024-02-05,Delhi Book Hub,VR Logistics,2024-02-06,2024-02-13,7,0,Twisted Love,Fiction,Penguin India,20,100,70,170,3400,2000,1400,538.72,5,70,1813
+ORD023,2024-02-05,Academic Traders,VR Logistics,2024-02-06,2024-02-13,7,0,48 Laws of Power,Self-Help,Penguin India,20,115.5,70,185.5,3710,2310,1400,538.72,5,70,1813
+ORD023,2024-02-05,Delhi Book Hub,VR Logistics,2024-02-06,2024-02-13,7,0,It Ends With Us,Fiction,Simon & Schuster India,20,110,70,180,3600,2200,1400,538.72,5,70,1813
+ORD023,2024-02-05,Academic Traders,VR Logistics,2024-02-06,2024-02-13,7,0,Grays Anatomy,Medical,Elsevier India,20,262.5,85,347.5,6950,5250,1700,538.72,5,70,1813
+ORD023,2024-02-05,Delhi Book Hub,VR Logistics,2024-02-06,2024-02-13,7,0,Engineering Mathematics,Academic,Pearson India,20,150,65,215,4300,3000,1300,538.72,5,70,1813
+ORD023,2024-02-05,Academic Traders,VR Logistics,2024-02-06,2024-02-13,7,0,48 Laws of Power,Self-Help,Penguin India,20,105,70,175,3500,2100,1400,538.72,5,70,1813
+ORD023,2024-02-05,Delhi Book Hub,VR Logistics,2024-02-06,2024-02-13,7,0,The Silent Patient,Fiction,Penguin India,20,110,70,180,3600,2200,1400,538.72,5,70,1813
+ORD023,2024-02-05,Academic Traders,VR Logistics,2024-02-06,2024-02-13,7,0,Grays Anatomy,Medical,Elsevier India,20,262.5,85,347.5,6950,5250,1700,538.72,5,70,1813
+ORD023,2024-02-05,Delhi Book Hub,VR Logistics,2024-02-06,2024-02-13,7,0,Naruto Vol 1,Manga,Viz Media India,20,90,60,150,3000,1800,1200,538.72,5,70,1813
+ORD023,2024-02-05,Academic Traders,VR Logistics,2024-02-06,2024-02-13,7,0,It Ends With Us,Fiction,Simon & Schuster India,20,115.5,70,185.5,3710,2310,1400,538.72,5,70,1813
+ORD023,2024-02-05,Delhi Book Hub,VR Logistics,2024-02-06,2024-02-13,7,0,It Ends With Us,Fiction,Simon & Schuster India,20,110,70,180,3600,2200,1400,538.72,5,70,1813
+ORD023,2024-02-05,Academic Traders,VR Logistics,2024-02-06,2024-02-13,7,0,Naruto Vol 1,Manga,Viz Media India,20,115.5,70,185.5,3710,2310,1400,538.72,5,70,1813
+ORD023,2024-02-05,Delhi Book Hub,VR Logistics,2024-02-06,2024-02-13,7,0,Twisted Love,Fiction,Penguin India,20,100,70,170,3400,2000,1400,538.72,5,70,1813
+ORD023,2024-02-05,Academic Traders,VR Logistics,2024-02-06,2024-02-13,7,0,One Piece Vol 1,Manga,Viz Media India,20,94.5,60,154.5,3090,1890,1200,538.72,5,70,1813
+ORD023,2024-02-05,Delhi Book Hub,VR Logistics,2024-02-06,2024-02-13,7,0,Grays Anatomy,Medical,Elsevier India,20,250,85,335,6700,5000,1700,538.72,5,70,1813
+ORD024,2024-03-05,Metro Book Distributors,VR Logistics,2024-03-06,2024-03-15,9,0,Twisted Love,Fiction,Penguin India,20,92,60,152,3040,1840,1200,465.95,5,60,1679
+ORD024,2024-03-05,Scholars Market,VR Logistics,2024-03-06,2024-03-15,9,0,48 Laws of Power,Self-Help,Penguin India,20,95,60,155,3100,1900,1200,465.95,5,60,1679
+ORD024,2024-03-05,Metro Book Distributors,VR Logistics,2024-03-06,2024-03-15,9,0,One Piece Vol 1,Manga,Viz Media India,20,101.2,70,171.2,3424,2024,1400,465.95,5,60,1679
+ORD024,2024-03-05,Scholars Market,VR Logistics,2024-03-06,2024-03-15,9,0,Data Structures in C,Academic,McGraw Hill India,20,142.5,65,207.5,4150,2850,1300,465.95,5,60,1679
+ORD024,2024-03-05,Metro Book Distributors,VR Logistics,2024-03-06,2024-03-15,9,0,The Silent Patient,Fiction,Penguin India,20,92,60,152,3040,1840,1200,465.95,5,60,1679
+ORD024,2024-03-05,Scholars Market,VR Logistics,2024-03-06,2024-03-15,9,0,One Piece Vol 1,Manga,Viz Media India,20,85.5,60,145.5,2910,1710,1200,465.95,5,60,1679
+ORD024,2024-03-05,Metro Book Distributors,VR Logistics,2024-03-06,2024-03-15,9,0,Naruto Vol 1,Manga,Viz Media India,20,92,60,152,3040,1840,1200,465.95,5,60,1679
+ORD024,2024-03-05,Scholars Market,VR Logistics,2024-03-06,2024-03-15,9,0,Grays Anatomy,Medical,Elsevier India,20,237.5,85,322.5,6450,4750,1700,465.95,5,60,1679
+ORD024,2024-03-05,Metro Book Distributors,VR Logistics,2024-03-06,2024-03-15,9,0,It Ends With Us,Fiction,Simon & Schuster India,20,82.8,60,142.8,2856,1656,1200,465.95,5,60,1679
+ORD024,2024-03-05,Scholars Market,VR Logistics,2024-03-06,2024-03-15,9,0,Twisted Love,Fiction,Penguin India,20,95,60,155,3100,1900,1200,465.95,5,60,1679
+ORD024,2024-03-05,Metro Book Distributors,VR Logistics,2024-03-06,2024-03-15,9,0,Data Structures in C,Academic,McGraw Hill India,20,165.6,85,250.6,5012,3312,1700,465.95,5,60,1679
+ORD024,2024-03-05,Scholars Market,VR Logistics,2024-03-06,2024-03-15,9,0,The Silent Patient,Fiction,Penguin India,20,104.5,70,174.5,3490,2090,1400,465.95,5,60,1679
+ORD024,2024-03-05,Metro Book Distributors,VR Logistics,2024-03-06,2024-03-15,9,0,One Piece Vol 1,Manga,Viz Media India,20,82.8,60,142.8,2856,1656,1200,465.95,5,60,1679
+ORD024,2024-03-05,Scholars Market,VR Logistics,2024-03-06,2024-03-15,9,0,One Piece Vol 1,Manga,Viz Media India,20,95,60,155,3100,1900,1200,465.95,5,60,1679
+ORD024,2024-03-05,Metro Book Distributors,VR Logistics,2024-03-06,2024-03-15,9,0,Twisted Love,Fiction,Penguin India,20,92,60,152,3040,1840,1200,465.95,5,60,1679
+ORD025,2024-04-08,Metro Book Distributors,VR Logistics,2024-04-09,2024-04-19,10,0,One Piece Vol 1,Manga,Viz Media India,20,101.2,70,171.2,3424,2024,1400,449.5,5,60,1512
+ORD025,2024-04-08,Metro Book Distributors,VR Logistics,2024-04-09,2024-04-19,10,0,Engineering Mathematics,Academic,Pearson India,20,138,65,203,4060,2760,1300,449.5,5,60,1512
+ORD025,2024-04-08,Metro Book Distributors,VR Logistics,2024-04-09,2024-04-19,10,0,One Piece Vol 1,Manga,Viz Media India,20,92,60,152,3040,1840,1200,449.5,5,60,1512
+ORD025,2024-04-08,Metro Book Distributors,VR Logistics,2024-04-09,2024-04-19,10,0,Naruto Vol 1,Manga,Viz Media India,20,101.2,70,171.2,3424,2024,1400,449.5,5,60,1512
+ORD025,2024-04-08,Metro Book Distributors,VR Logistics,2024-04-09,2024-04-19,10,1,Data Structures in C,Academic,McGraw Hill India,20,165.6,85,250.6,5012,3312,1700,449.5,5,60,1512
+ORD025,2024-04-08,Metro Book Distributors,VR Logistics,2024-04-09,2024-04-19,10,0,Grays Anatomy,Medical,Elsevier India,20,276,85,361,7220,5520,1700,449.5,5,60,1512
+ORD025,2024-04-08,Metro Book Distributors,VR Logistics,2024-04-09,2024-04-19,10,0,The Silent Patient,Fiction,Penguin India,20,92,60,152,3040,1840,1200,449.5,5,60,1512
+ORD025,2024-04-08,Metro Book Distributors,VR Logistics,2024-04-09,2024-04-19,10,0,The Silent Patient,Fiction,Penguin India,20,92,60,152,3040,1840,1200,449.5,5,60,1512
+ORD025,2024-04-08,Metro Book Distributors,VR Logistics,2024-04-09,2024-04-19,10,0,48 Laws of Power,Self-Help,Penguin India,20,101.2,70,171.2,3424,2024,1400,449.5,5,60,1512
+ORD025,2024-04-08,Metro Book Distributors,VR Logistics,2024-04-09,2024-04-19,10,0,One Piece Vol 1,Manga,Viz Media India,20,92,60,152,3040,1840,1200,449.5,5,60,1512
+ORD025,2024-04-08,Metro Book Distributors,VR Logistics,2024-04-09,2024-04-19,10,0,48 Laws of Power,Self-Help,Penguin India,20,101.2,70,171.2,3424,2024,1400,449.5,5,60,1512
+ORD025,2024-04-08,Metro Book Distributors,VR Logistics,2024-04-09,2024-04-19,10,0,Twisted Love,Fiction,Penguin India,20,82.8,60,142.8,2856,1656,1200,449.5,5,60,1512
+ORD025,2024-04-08,Metro Book Distributors,VR Logistics,2024-04-09,2024-04-19,10,0,Grays Anatomy,Medical,Elsevier India,20,230,85,315,6300,4600,1700,449.5,5,60,1512
+ORD025,2024-04-08,Metro Book Distributors,VR Logistics,2024-04-09,2024-04-19,10,0,48 Laws of Power,Self-Help,Penguin India,20,82.8,60,142.8,2856,1656,1200,449.5,5,60,1512
+ORD025,2024-04-08,Metro Book Distributors,VR Logistics,2024-04-09,2024-04-19,10,0,Naruto Vol 1,Manga,Viz Media India,20,101.2,70,171.2,3424,2024,1400,449.5,5,60,1512
+ORD025,2024-04-08,Metro Book Distributors,VR Logistics,2024-04-09,2024-04-19,10,0,Twisted Love,Fiction,Penguin India,20,101.2,70,171.2,3424,2024,1400,449.5,5,60,1512
+ORD025,2024-04-08,Metro Book Distributors,VR Logistics,2024-04-09,2024-04-19,10,0,Naruto Vol 1,Manga,Viz Media India,20,101.2,70,171.2,3424,2024,1400,449.5,5,60,1512
+ORD025,2024-04-08,Metro Book Distributors,VR Logistics,2024-04-09,2024-04-19,10,0,The Silent Patient,Fiction,Penguin India,20,82.8,60,142.8,2856,1656,1200,449.5,5,60,1512
+ORD025,2024-04-08,Metro Book Distributors,VR Logistics,2024-04-09,2024-04-19,10,0,48 Laws of Power,Self-Help,Penguin India,20,101.2,70,171.2,3424,2024,1400,449.5,5,60,1512
+ORD025,2024-04-08,Metro Book Distributors,VR Logistics,2024-04-09,2024-04-19,10,0,The Silent Patient,Fiction,Penguin India,20,82.8,60,142.8,2856,1656,1200,449.5,5,60,1512
+ORD026,2024-05-13,Delhi Book Hub,VR Logistics,2024-05-14,2024-05-25,11,0,The Silent Patient,Fiction,Penguin India,20,110,70,180,3600,2200,1400,601.83,6,78,1784
+ORD026,2024-05-13,Delhi Book Hub,VR Logistics,2024-05-14,2024-05-25,11,0,Naruto Vol 1,Manga,Viz Media India,20,100,70,170,3400,2000,1400,601.83,6,78,1784
+ORD026,2024-05-13,Delhi Book Hub,VR Logistics,2024-05-14,2024-05-25,11,0,Naruto Vol 1,Manga,Viz Media India,20,100,70,170,3400,2000,1400,601.83,6,78,1784
+ORD026,2024-05-13,Delhi Book Hub,VR Logistics,2024-05-14,2024-05-25,11,0,48 Laws of Power,Self-Help,Penguin India,20,100,70,170,3400,2000,1400,601.83,6,78,1784
+ORD026,2024-05-13,Delhi Book Hub,VR Logistics,2024-05-14,2024-05-25,11,0,Data Structures in C,Academic,McGraw Hill India,20,180,85,265,5300,3600,1700,601.83,6,78,1784
+ORD026,2024-05-13,Delhi Book Hub,VR Logistics,2024-05-14,2024-05-25,11,0,Naruto Vol 1,Manga,Viz Media India,20,90,60,150,3000,1800,1200,601.83,6,78,1784
+ORD026,2024-05-13,Delhi Book Hub,VR Logistics,2024-05-14,2024-05-25,11,0,Naruto Vol 1,Manga,Viz Media India,20,100,70,170,3400,2000,1400,601.83,6,78,1784
+ORD026,2024-05-13,Delhi Book Hub,VR Logistics,2024-05-14,2024-05-25,11,0,Naruto Vol 1,Manga,Viz Media India,20,100,70,170,3400,2000,1400,601.83,6,78,1784
+ORD026,2024-05-13,Delhi Book Hub,VR Logistics,2024-05-14,2024-05-25,11,0,Twisted Love,Fiction,Penguin India,20,100,70,170,3400,2000,1400,601.83,6,78,1784
+ORD026,2024-05-13,Delhi Book Hub,VR Logistics,2024-05-14,2024-05-25,11,0,The Silent Patient,Fiction,Penguin India,20,110,70,180,3600,2200,1400,601.83,6,78,1784
+ORD026,2024-05-13,Delhi Book Hub,VR Logistics,2024-05-14,2024-05-25,11,0,It Ends With Us,Fiction,Simon & Schuster India,20,110,70,180,3600,2200,1400,601.83,6,78,1784
+ORD026,2024-05-13,Delhi Book Hub,VR Logistics,2024-05-14,2024-05-25,11,0,Twisted Love,Fiction,Penguin India,20,100,70,170,3400,2000,1400,601.83,6,78,1784
+ORD026,2024-05-13,Delhi Book Hub,VR Logistics,2024-05-14,2024-05-25,11,0,Naruto Vol 1,Manga,Viz Media India,20,100,70,170,3400,2000,1400,601.83,6,78,1784
+ORD026,2024-05-13,Delhi Book Hub,VR Logistics,2024-05-14,2024-05-25,11,0,Grays Anatomy,Medical,Elsevier India,20,250,85,335,6700,5000,1700,601.83,6,78,1784
+ORD026,2024-05-13,Delhi Book Hub,VR Logistics,2024-05-14,2024-05-25,11,0,One Piece Vol 1,Manga,Viz Media India,20,90,60,150,3000,1800,1200,601.83,6,78,1784
+ORD027,2024-06-08,Delhi Book Hub,VR Logistics,2024-06-09,2024-06-19,10,0,The Silent Patient,Fiction,Penguin India,20,90,60,150,3000,1800,1200,519.75,5,65,1620
+ORD027,2024-06-08,Delhi Book Hub,VR Logistics,2024-06-09,2024-06-19,10,0,Data Structures in C,Academic,McGraw Hill India,20,180,85,265,5300,3600,1700,519.75,5,65,1620
+ORD027,2024-06-08,Delhi Book Hub,VR Logistics,2024-06-09,2024-06-19,10,0,The Silent Patient,Fiction,Penguin India,20,100,70,170,3400,2000,1400,519.75,5,65,1620
+ORD027,2024-06-08,Delhi Book Hub,VR Logistics,2024-06-09,2024-06-19,10,0,Grays Anatomy,Medical,Elsevier India,20,300,85,385,7700,6000,1700,519.75,5,65,1620
+ORD027,2024-06-08,Delhi Book Hub,VR Logistics,2024-06-09,2024-06-19,10,0,One Piece Vol 1,Manga,Viz Media India,20,100,70,170,3400,2000,1400,519.75,5,65,1620
+ORD027,2024-06-08,Delhi Book Hub,VR Logistics,2024-06-09,2024-06-19,10,0,Grays Anatomy,Medical,Elsevier India,20,300,85,385,7700,6000,1700,519.75,5,65,1620
+ORD027,2024-06-08,Delhi Book Hub,VR Logistics,2024-06-09,2024-06-19,10,0,48 Laws of Power,Self-Help,Penguin India,20,90,60,150,3000,1800,1200,519.75,5,65,1620
+ORD027,2024-06-08,Delhi Book Hub,VR Logistics,2024-06-09,2024-06-19,10,0,It Ends With Us,Fiction,Simon & Schuster India,20,110,70,180,3600,2200,1400,519.75,5,65,1620
+ORD027,2024-06-08,Delhi Book Hub,VR Logistics,2024-06-09,2024-06-19,10,0,Grays Anatomy,Medical,Elsevier India,20,250,85,335,6700,5000,1700,519.75,5,65,1620
+ORD027,2024-06-08,Delhi Book Hub,VR Logistics,2024-06-09,2024-06-19,10,0,It Ends With Us,Fiction,Simon & Schuster India,20,90,60,150,3000,1800,1200,519.75,5,65,1620
+ORD027,2024-06-08,Delhi Book Hub,VR Logistics,2024-06-09,2024-06-19,10,1,The Silent Patient,Fiction,Penguin India,20,110,70,180,3600,2200,1400,519.75,5,65,1620
+ORD027,2024-06-08,Delhi Book Hub,VR Logistics,2024-06-09,2024-06-19,10,0,One Piece Vol 1,Manga,Viz Media India,20,90,60,150,3000,1800,1200,519.75,5,65,1620
+ORD027,2024-06-08,Delhi Book Hub,VR Logistics,2024-06-09,2024-06-19,10,0,Twisted Love,Fiction,Penguin India,20,100,70,170,3400,2000,1400,519.75,5,65,1620
+ORD027,2024-06-08,Delhi Book Hub,VR Logistics,2024-06-09,2024-06-19,10,0,It Ends With Us,Fiction,Simon & Schuster India,20,100,70,170,3400,2000,1400,519.75,5,65,1620
+ORD027,2024-06-08,Delhi Book Hub,VR Logistics,2024-06-09,2024-06-19,10,0,It Ends With Us,Fiction,Simon & Schuster India,20,100,70,170,3400,2000,1400,519.75,5,65,1620
+ORD027,2024-06-08,Delhi Book Hub,VR Logistics,2024-06-09,2024-06-19,10,0,The Silent Patient,Fiction,Penguin India,20,100,70,170,3400,2000,1400,519.75,5,65,1620
+ORD027,2024-06-08,Delhi Book Hub,VR Logistics,2024-06-09,2024-06-19,10,0,It Ends With Us,Fiction,Simon & Schuster India,20,90,60,150,3000,1800,1200,519.75,5,65,1620
+ORD027,2024-06-08,Delhi Book Hub,VR Logistics,2024-06-09,2024-06-19,10,0,Grays Anatomy,Medical,Elsevier India,20,300,85,385,7700,6000,1700,519.75,5,65,1620
+ORD027,2024-06-08,Delhi Book Hub,VR Logistics,2024-06-09,2024-06-19,10,0,Engineering Mathematics,Academic,Pearson India,20,150,65,215,4300,3000,1300,519.75,5,65,1620
+ORD028,2024-06-18,Metro Book Distributors,VR Logistics,2024-06-19,2024-06-28,9,0,Naruto Vol 1,Manga,Viz Media India,20,82.8,60,142.8,2856,1656,1200,319.42,3,42,1733
+ORD028,2024-06-18,Metro Book Distributors,VR Logistics,2024-06-19,2024-06-28,9,0,48 Laws of Power,Self-Help,Penguin India,20,101.2,70,171.2,3424,2024,1400,319.42,3,42,1733
+ORD028,2024-06-18,Metro Book Distributors,VR Logistics,2024-06-19,2024-06-28,9,0,The Silent Patient,Fiction,Penguin India,20,92,60,152,3040,1840,1200,319.42,3,42,1733
+ORD028,2024-06-18,Metro Book Distributors,VR Logistics,2024-06-19,2024-06-28,9,0,One Piece Vol 1,Manga,Viz Media India,20,101.2,70,171.2,3424,2024,1400,319.42,3,42,1733
+ORD028,2024-06-18,Metro Book Distributors,VR Logistics,2024-06-19,2024-06-28,9,0,One Piece Vol 1,Manga,Viz Media India,20,82.8,60,142.8,2856,1656,1200,319.42,3,42,1733
+ORD028,2024-06-18,Metro Book Distributors,VR Logistics,2024-06-19,2024-06-28,9,0,Naruto Vol 1,Manga,Viz Media India,20,101.2,70,171.2,3424,2024,1400,319.42,3,42,1733
+ORD028,2024-06-18,Metro Book Distributors,VR Logistics,2024-06-19,2024-06-28,9,0,The Silent Patient,Fiction,Penguin India,20,82.8,60,142.8,2856,1656,1200,319.42,3,42,1733
+ORD028,2024-06-18,Metro Book Distributors,VR Logistics,2024-06-19,2024-06-28,9,0,One Piece Vol 1,Manga,Viz Media India,20,82.8,60,142.8,2856,1656,1200,319.42,3,42,1733
+ORD028,2024-06-18,Metro Book Distributors,VR Logistics,2024-06-19,2024-06-28,9,0,It Ends With Us,Fiction,Simon & Schuster India,20,101.2,70,171.2,3424,2024,1400,319.42,3,42,1733
+ORD028,2024-06-18,Metro Book Distributors,VR Logistics,2024-06-19,2024-06-28,9,0,It Ends With Us,Fiction,Simon & Schuster India,20,82.8,60,142.8,2856,1656,1200,319.42,3,42,1733
+ORD028,2024-06-18,Metro Book Distributors,VR Logistics,2024-06-19,2024-06-28,9,0,Grays Anatomy,Medical,Elsevier India,20,276,85,361,7220,5520,1700,319.42,3,42,1733
+ORD028,2024-06-18,Metro Book Distributors,VR Logistics,2024-06-19,2024-06-28,9,0,Grays Anatomy,Medical,Elsevier India,20,276,85,361,7220,5520,1700,319.42,3,42,1733
+ORD028,2024-06-18,Metro Book Distributors,VR Logistics,2024-06-19,2024-06-28,9,0,48 Laws of Power,Self-Help,Penguin India,20,82.8,60,142.8,2856,1656,1200,319.42,3,42,1733
+ORD028,2024-06-18,Metro Book Distributors,VR Logistics,2024-06-19,2024-06-28,9,0,48 Laws of Power,Self-Help,Penguin India,20,101.2,70,171.2,3424,2024,1400,319.42,3,42,1733
+ORD028,2024-06-18,Metro Book Distributors,VR Logistics,2024-06-19,2024-06-28,9,0,Twisted Love,Fiction,Penguin India,20,101.2,70,171.2,3424,2024,1400,319.42,3,42,1733
+ORD029,2024-07-12,Metro Book Distributors,VR Logistics,2024-07-13,2024-07-21,8,0,Naruto Vol 1,Manga,Viz Media India,20,101.2,70,171.2,3424,2024,1400,270.87,3,36,1657
+ORD029,2024-07-12,Academic Traders,VR Logistics,2024-07-13,2024-07-21,8,0,Engineering Mathematics,Academic,Pearson India,20,189,85,274,5480,3780,1700,270.87,3,36,1657
+ORD029,2024-07-12,Metro Book Distributors,VR Logistics,2024-07-13,2024-07-21,8,0,The Silent Patient,Fiction,Penguin India,20,82.8,60,142.8,2856,1656,1200,270.87,3,36,1657
+ORD029,2024-07-12,Academic Traders,VR Logistics,2024-07-13,2024-07-21,8,0,Grays Anatomy,Medical,Elsevier India,20,315,85,400,8000,6300,1700,270.87,3,36,1657
+ORD029,2024-07-12,Metro Book Distributors,VR Logistics,2024-07-13,2024-07-21,8,0,Grays Anatomy,Medical,Elsevier India,20,276,85,361,7220,5520,1700,270.87,3,36,1657
+ORD029,2024-07-12,Academic Traders,VR Logistics,2024-07-13,2024-07-21,8,0,It Ends With Us,Fiction,Simon & Schuster India,20,115.5,70,185.5,3710,2310,1400,270.87,3,36,1657
+ORD029,2024-07-12,Metro Book Distributors,VR Logistics,2024-07-13,2024-07-21,8,0,Naruto Vol 1,Manga,Viz Media India,20,82.8,60,142.8,2856,1656,1200,270.87,3,36,1657
+ORD029,2024-07-12,Academic Traders,VR Logistics,2024-07-13,2024-07-21,8,0,Naruto Vol 1,Manga,Viz Media India,20,105,70,175,3500,2100,1400,270.87,3,36,1657
+ORD029,2024-07-12,Metro Book Distributors,VR Logistics,2024-07-13,2024-07-21,8,0,48 Laws of Power,Self-Help,Penguin India,20,101.2,70,171.2,3424,2024,1400,270.87,3,36,1657
+ORD029,2024-07-12,Academic Traders,VR Logistics,2024-07-13,2024-07-21,8,0,Data Structures in C,Academic,McGraw Hill India,20,189,85,274,5480,3780,1700,270.87,3,36,1657
+ORD029,2024-07-12,Metro Book Distributors,VR Logistics,2024-07-13,2024-07-21,8,0,Grays Anatomy,Medical,Elsevier India,20,230,85,315,6300,4600,1700,270.87,3,36,1657
+ORD029,2024-07-12,Academic Traders,VR Logistics,2024-07-13,2024-07-21,8,0,Naruto Vol 1,Manga,Viz Media India,20,105,70,175,3500,2100,1400,270.87,3,36,1657
+ORD029,2024-07-12,Metro Book Distributors,VR Logistics,2024-07-13,2024-07-21,8,0,Naruto Vol 1,Manga,Viz Media India,20,101.2,70,171.2,3424,2024,1400,270.87,3,36,1657
+ORD029,2024-07-12,Academic Traders,VR Logistics,2024-07-13,2024-07-21,8,0,Grays Anatomy,Medical,Elsevier India,20,262.5,85,347.5,6950,5250,1700,270.87,3,36,1657
+ORD029,2024-07-12,Metro Book Distributors,VR Logistics,2024-07-13,2024-07-21,8,1,One Piece Vol 1,Manga,Viz Media India,20,82.8,60,142.8,2856,1656,1200,270.87,3,36,1657
+ORD029,2024-07-12,Academic Traders,VR Logistics,2024-07-13,2024-07-21,8,0,Naruto Vol 1,Manga,Viz Media India,20,105,70,175,3500,2100,1400,270.87,3,36,1657
+ORD029,2024-07-12,Metro Book Distributors,VR Logistics,2024-07-13,2024-07-21,8,0,Data Structures in C,Academic,McGraw Hill India,20,165.6,85,250.6,5012,3312,1700,270.87,3,36,1657
+ORD029,2024-07-12,Academic Traders,VR Logistics,2024-07-13,2024-07-21,8,0,Grays Anatomy,Medical,Elsevier India,20,262.5,85,347.5,6950,5250,1700,270.87,3,36,1657
+ORD030,2024-08-04,Academic Traders,SRB Logistics,2024-08-05,2024-08-14,9,0,One Piece Vol 1,Manga,Viz Media India,20,94.5,60,154.5,3090,1890,1200,640,5,80,1892
+ORD030,2024-08-04,Metro Book Distributors,SRB Logistics,2024-08-05,2024-08-14,9,0,Grays Anatomy,Medical,Elsevier India,20,230,85,315,6300,4600,1700,640,5,80,1892
+ORD030,2024-08-04,Academic Traders,SRB Logistics,2024-08-05,2024-08-14,9,0,Naruto Vol 1,Manga,Viz Media India,20,115.5,70,185.5,3710,2310,1400,640,5,80,1892
+ORD030,2024-08-04,Metro Book Distributors,SRB Logistics,2024-08-05,2024-08-14,9,0,The Silent Patient,Fiction,Penguin India,20,92,60,152,3040,1840,1200,640,5,80,1892
+ORD030,2024-08-04,Academic Traders,SRB Logistics,2024-08-05,2024-08-14,9,0,It Ends With Us,Fiction,Simon & Schuster India,20,105,70,175,3500,2100,1400,640,5,80,1892
+ORD030,2024-08-04,Metro Book Distributors,SRB Logistics,2024-08-05,2024-08-14,9,0,48 Laws of Power,Self-Help,Penguin India,20,82.8,60,142.8,2856,1656,1200,640,5,80,1892
+ORD030,2024-08-04,Academic Traders,SRB Logistics,2024-08-05,2024-08-14,9,1,Engineering Mathematics,Academic,Pearson India,20,189,85,274,5480,3780,1700,640,5,80,1892
+ORD030,2024-08-04,Metro Book Distributors,SRB Logistics,2024-08-05,2024-08-14,9,0,Data Structures in C,Academic,McGraw Hill India,20,138,65,203,4060,2760,1300,640,5,80,1892
+ORD030,2024-08-04,Academic Traders,SRB Logistics,2024-08-05,2024-08-14,9,0,Grays Anatomy,Medical,Elsevier India,20,262.5,85,347.5,6950,5250,1700,640,5,80,1892
+ORD030,2024-08-04,Metro Book Distributors,SRB Logistics,2024-08-05,2024-08-14,9,0,The Silent Patient,Fiction,Penguin India,20,101.2,70,171.2,3424,2024,1400,640,5,80,1892
+ORD030,2024-08-04,Academic Traders,SRB Logistics,2024-08-05,2024-08-14,9,0,Grays Anatomy,Medical,Elsevier India,20,315,85,400,8000,6300,1700,640,5,80,1892
+ORD030,2024-08-04,Metro Book Distributors,SRB Logistics,2024-08-05,2024-08-14,9,0,It Ends With Us,Fiction,Simon & Schuster India,20,82.8,60,142.8,2856,1656,1200,640,5,80,1892
+ORD030,2024-08-04,Academic Traders,SRB Logistics,2024-08-05,2024-08-14,9,0,It Ends With Us,Fiction,Simon & Schuster India,20,115.5,70,185.5,3710,2310,1400,640,5,80,1892
+ORD030,2024-08-04,Metro Book Distributors,SRB Logistics,2024-08-05,2024-08-14,9,0,It Ends With Us,Fiction,Simon & Schuster India,20,82.8,60,142.8,2856,1656,1200,640,5,80,1892
+ORD030,2024-08-04,Academic Traders,SRB Logistics,2024-08-05,2024-08-14,9,0,Naruto Vol 1,Manga,Viz Media India,20,94.5,60,154.5,3090,1890,1200,640,5,80,1892
+ORD030,2024-08-04,Metro Book Distributors,SRB Logistics,2024-08-05,2024-08-14,9,0,Twisted Love,Fiction,Penguin India,20,82.8,60,142.8,2856,1656,1200,640,5,80,1892
+ORD030,2024-08-04,Academic Traders,SRB Logistics,2024-08-05,2024-08-14,9,0,Naruto Vol 1,Manga,Viz Media India,20,94.5,60,154.5,3090,1890,1200,640,5,80,1892
+ORD031,2024-09-07,Metro Book Distributors,VR Logistics,2024-09-08,2024-09-17,9,0,Naruto Vol 1,Manga,Viz Media India,20,101.2,70,171.2,3424,2024,1400,330.27,3,42,1821
+ORD031,2024-09-07,Metro Book Distributors,VR Logistics,2024-09-08,2024-09-17,9,0,Naruto Vol 1,Manga,Viz Media India,20,82.8,60,142.8,2856,1656,1200,330.27,3,42,1821
+ORD031,2024-09-07,Metro Book Distributors,VR Logistics,2024-09-08,2024-09-17,9,0,Data Structures in C,Academic,McGraw Hill India,20,138,65,203,4060,2760,1300,330.27,3,42,1821
+ORD031,2024-09-07,Metro Book Distributors,VR Logistics,2024-09-08,2024-09-17,9,0,48 Laws of Power,Self-Help,Penguin India,20,101.2,70,171.2,3424,2024,1400,330.27,3,42,1821
+ORD031,2024-09-07,Metro Book Distributors,VR Logistics,2024-09-08,2024-09-17,9,0,Twisted Love,Fiction,Penguin India,20,101.2,70,171.2,3424,2024,1400,330.27,3,42,1821
+ORD031,2024-09-07,Metro Book Distributors,VR Logistics,2024-09-08,2024-09-17,9,1,Naruto Vol 1,Manga,Viz Media India,20,92,60,152,3040,1840,1200,330.27,3,42,1821
+ORD031,2024-09-07,Metro Book Distributors,VR Logistics,2024-09-08,2024-09-17,9,0,Twisted Love,Fiction,Penguin India,20,82.8,60,142.8,2856,1656,1200,330.27,3,42,1821
+ORD031,2024-09-07,Metro Book Distributors,VR Logistics,2024-09-08,2024-09-17,9,0,48 Laws of Power,Self-Help,Penguin India,20,82.8,60,142.8,2856,1656,1200,330.27,3,42,1821
+ORD031,2024-09-07,Metro Book Distributors,VR Logistics,2024-09-08,2024-09-17,9,0,Naruto Vol 1,Manga,Viz Media India,20,82.8,60,142.8,2856,1656,1200,330.27,3,42,1821
+ORD031,2024-09-07,Metro Book Distributors,VR Logistics,2024-09-08,2024-09-17,9,0,The Silent Patient,Fiction,Penguin India,20,101.2,70,171.2,3424,2024,1400,330.27,3,42,1821
+ORD031,2024-09-07,Metro Book Distributors,VR Logistics,2024-09-08,2024-09-17,9,0,The Silent Patient,Fiction,Penguin India,20,101.2,70,171.2,3424,2024,1400,330.27,3,42,1821
+ORD031,2024-09-07,Metro Book Distributors,VR Logistics,2024-09-08,2024-09-17,9,0,Engineering Mathematics,Academic,Pearson India,20,165.6,85,250.6,5012,3312,1700,330.27,3,42,1821
+ORD031,2024-09-07,Metro Book Distributors,VR Logistics,2024-09-08,2024-09-17,9,0,Grays Anatomy,Medical,Elsevier India,20,230,85,315,6300,4600,1700,330.27,3,42,1821
+ORD031,2024-09-07,Metro Book Distributors,VR Logistics,2024-09-08,2024-09-17,9,0,The Silent Patient,Fiction,Penguin India,20,92,60,152,3040,1840,1200,330.27,3,42,1821
+ORD031,2024-09-07,Metro Book Distributors,VR Logistics,2024-09-08,2024-09-17,9,1,Twisted Love,Fiction,Penguin India,20,92,60,152,3040,1840,1200,330.27,3,42,1821
+ORD031,2024-09-07,Metro Book Distributors,VR Logistics,2024-09-08,2024-09-17,9,0,48 Laws of Power,Self-Help,Penguin India,20,92,60,152,3040,1840,1200,330.27,3,42,1821
+ORD031,2024-09-07,Metro Book Distributors,VR Logistics,2024-09-08,2024-09-17,9,0,One Piece Vol 1,Manga,Viz Media India,20,101.2,70,171.2,3424,2024,1400,330.27,3,42,1821
+ORD032,2024-10-05,Metro Book Distributors,IRCTC Cargo,2024-10-06,2024-10-13,7,0,Grays Anatomy,Medical,Elsevier India,20,276,85,361,7220,5520,1700,840,3,42,1729
+ORD032,2024-10-05,Delhi Book Hub,IRCTC Cargo,2024-10-06,2024-10-13,7,0,Naruto Vol 1,Manga,Viz Media India,20,110,70,180,3600,2200,1400,840,3,42,1729
+ORD032,2024-10-05,Metro Book Distributors,IRCTC Cargo,2024-10-06,2024-10-13,7,0,The Silent Patient,Fiction,Penguin India,20,101.2,70,171.2,3424,2024,1400,840,3,42,1729
+ORD032,2024-10-05,Delhi Book Hub,IRCTC Cargo,2024-10-06,2024-10-13,7,0,Naruto Vol 1,Manga,Viz Media India,20,100,70,170,3400,2000,1400,840,3,42,1729
+ORD032,2024-10-05,Metro Book Distributors,IRCTC Cargo,2024-10-06,2024-10-13,7,0,Naruto Vol 1,Manga,Viz Media India,20,101.2,70,171.2,3424,2024,1400,840,3,42,1729
+ORD032,2024-10-05,Delhi Book Hub,IRCTC Cargo,2024-10-06,2024-10-13,7,0,48 Laws of Power,Self-Help,Penguin India,20,110,70,180,3600,2200,1400,840,3,42,1729
+ORD032,2024-10-05,Metro Book Distributors,IRCTC Cargo,2024-10-06,2024-10-13,7,0,It Ends With Us,Fiction,Simon & Schuster India,20,101.2,70,171.2,3424,2024,1400,840,3,42,1729
+ORD032,2024-10-05,Delhi Book Hub,IRCTC Cargo,2024-10-06,2024-10-13,7,1,Grays Anatomy,Medical,Elsevier India,20,300,85,385,7700,6000,1700,840,3,42,1729
+ORD032,2024-10-05,Metro Book Distributors,IRCTC Cargo,2024-10-06,2024-10-13,7,0,Naruto Vol 1,Manga,Viz Media India,20,101.2,70,171.2,3424,2024,1400,840,3,42,1729
+ORD032,2024-10-05,Delhi Book Hub,IRCTC Cargo,2024-10-06,2024-10-13,7,0,It Ends With Us,Fiction,Simon & Schuster India,20,110,70,180,3600,2200,1400,840,3,42,1729
+ORD032,2024-10-05,Metro Book Distributors,IRCTC Cargo,2024-10-06,2024-10-13,7,0,One Piece Vol 1,Manga,Viz Media India,20,101.2,70,171.2,3424,2024,1400,840,3,42,1729
+ORD032,2024-10-05,Delhi Book Hub,IRCTC Cargo,2024-10-06,2024-10-13,7,0,Naruto Vol 1,Manga,Viz Media India,20,100,70,170,3400,2000,1400,840,3,42,1729
+ORD032,2024-10-05,Metro Book Distributors,IRCTC Cargo,2024-10-06,2024-10-13,7,0,It Ends With Us,Fiction,Simon & Schuster India,20,92,60,152,3040,1840,1200,840,3,42,1729
+ORD032,2024-10-05,Delhi Book Hub,IRCTC Cargo,2024-10-06,2024-10-13,7,0,Engineering Mathematics,Academic,Pearson India,20,180,85,265,5300,3600,1700,840,3,42,1729
+ORD032,2024-10-05,Metro Book Distributors,IRCTC Cargo,2024-10-06,2024-10-13,7,0,Naruto Vol 1,Manga,Viz Media India,20,101.2,70,171.2,3424,2024,1400,840,3,42,1729
+ORD032,2024-10-05,Delhi Book Hub,IRCTC Cargo,2024-10-06,2024-10-13,7,0,The Silent Patient,Fiction,Penguin India,20,110,70,180,3600,2200,1400,840,3,42,1729
+ORD033,2024-11-08,Academic Traders,IRCTC Cargo,2024-11-09,2024-11-16,7,0,48 Laws of Power,Self-Help,Penguin India,20,94.5,60,154.5,3090,1890,1200,1020,3,51,1850
+ORD033,2024-11-08,Delhi Book Hub,IRCTC Cargo,2024-11-09,2024-11-16,7,0,Grays Anatomy,Medical,Elsevier India,20,300,85,385,7700,6000,1700,1020,3,51,1850
+ORD033,2024-11-08,Academic Traders,IRCTC Cargo,2024-11-09,2024-11-16,7,0,Grays Anatomy,Medical,Elsevier India,20,262.5,85,347.5,6950,5250,1700,1020,3,51,1850
+ORD033,2024-11-08,Delhi Book Hub,IRCTC Cargo,2024-11-09,2024-11-16,7,0,Naruto Vol 1,Manga,Viz Media India,20,90,60,150,3000,1800,1200,1020,3,51,1850
+ORD033,2024-11-08,Academic Traders,IRCTC Cargo,2024-11-09,2024-11-16,7,0,It Ends With Us,Fiction,Simon & Schuster India,20,105,70,175,3500,2100,1400,1020,3,51,1850
+ORD033,2024-11-08,Delhi Book Hub,IRCTC Cargo,2024-11-09,2024-11-16,7,0,Data Structures in C,Academic,McGraw Hill India,20,180,85,265,5300,3600,1700,1020,3,51,1850
+ORD033,2024-11-08,Academic Traders,IRCTC Cargo,2024-11-09,2024-11-16,7,1,48 Laws of Power,Self-Help,Penguin India,20,115.5,70,185.5,3710,2310,1400,1020,3,51,1850
+ORD033,2024-11-08,Delhi Book Hub,IRCTC Cargo,2024-11-09,2024-11-16,7,0,48 Laws of Power,Self-Help,Penguin India,20,110,70,180,3600,2200,1400,1020,3,51,1850
+ORD033,2024-11-08,Academic Traders,IRCTC Cargo,2024-11-09,2024-11-16,7,0,Grays Anatomy,Medical,Elsevier India,20,315,85,400,8000,6300,1700,1020,3,51,1850
+ORD033,2024-11-08,Delhi Book Hub,IRCTC Cargo,2024-11-09,2024-11-16,7,0,The Silent Patient,Fiction,Penguin India,20,110,70,180,3600,2200,1400,1020,3,51,1850
+ORD033,2024-11-08,Academic Traders,IRCTC Cargo,2024-11-09,2024-11-16,7,0,Naruto Vol 1,Manga,Viz Media India,20,115.5,70,185.5,3710,2310,1400,1020,3,51,1850
+ORD033,2024-11-08,Delhi Book Hub,IRCTC Cargo,2024-11-09,2024-11-16,7,0,Engineering Mathematics,Academic,Pearson India,20,180,85,265,5300,3600,1700,1020,3,51,1850
+ORD033,2024-11-08,Academic Traders,IRCTC Cargo,2024-11-09,2024-11-16,7,0,One Piece Vol 1,Manga,Viz Media India,20,105,70,175,3500,2100,1400,1020,3,51,1850
+ORD033,2024-11-08,Delhi Book Hub,IRCTC Cargo,2024-11-09,2024-11-16,7,0,Grays Anatomy,Medical,Elsevier India,20,250,85,335,6700,5000,1700,1020,3,51,1850
+ORD033,2024-11-08,Academic Traders,IRCTC Cargo,2024-11-09,2024-11-16,7,0,One Piece Vol 1,Manga,Viz Media India,20,94.5,60,154.5,3090,1890,1200,1020,3,51,1850
+ORD033,2024-11-08,Delhi Book Hub,IRCTC Cargo,2024-11-09,2024-11-16,7,0,It Ends With Us,Fiction,Simon & Schuster India,20,90,60,150,3000,1800,1200,1020,3,51,1850
+ORD033,2024-11-08,Academic Traders,IRCTC Cargo,2024-11-09,2024-11-16,7,0,Twisted Love,Fiction,Penguin India,20,115.5,70,185.5,3710,2310,1400,1020,3,51,1850
+ORD033,2024-11-08,Delhi Book Hub,IRCTC Cargo,2024-11-09,2024-11-16,7,0,Grays Anatomy,Medical,Elsevier India,20,250,85,335,6700,5000,1700,1020,3,51,1850
+ORD034,2024-11-06,Academic Traders,SRB Logistics,2024-11-07,2024-11-16,9,0,Engineering Mathematics,Academic,Pearson India,20,189,85,274,5480,3780,1700,624,6,78,1861
+ORD034,2024-11-06,Scholars Market,SRB Logistics,2024-11-07,2024-11-16,9,0,Twisted Love,Fiction,Penguin India,20,95,60,155,3100,1900,1200,624,6,78,1861
+ORD034,2024-11-06,Academic Traders,SRB Logistics,2024-11-07,2024-11-16,9,0,48 Laws of Power,Self-Help,Penguin India,20,94.5,60,154.5,3090,1890,1200,624,6,78,1861
+ORD034,2024-11-06,Scholars Market,SRB Logistics,2024-11-07,2024-11-16,9,0,Naruto Vol 1,Manga,Viz Media India,20,95,60,155,3100,1900,1200,624,6,78,1861
+ORD034,2024-11-06,Academic Traders,SRB Logistics,2024-11-07,2024-11-16,9,0,One Piece Vol 1,Manga,Viz Media India,20,115.5,70,185.5,3710,2310,1400,624,6,78,1861
+ORD034,2024-11-06,Scholars Market,SRB Logistics,2024-11-07,2024-11-16,9,0,Naruto Vol 1,Manga,Viz Media India,20,95,60,155,3100,1900,1200,624,6,78,1861
+ORD034,2024-11-06,Academic Traders,SRB Logistics,2024-11-07,2024-11-16,9,0,It Ends With Us,Fiction,Simon & Schuster India,20,115.5,70,185.5,3710,2310,1400,624,6,78,1861
+ORD034,2024-11-06,Scholars Market,SRB Logistics,2024-11-07,2024-11-16,9,1,It Ends With Us,Fiction,Simon & Schuster India,20,85.5,60,145.5,2910,1710,1200,624,6,78,1861
+ORD034,2024-11-06,Academic Traders,SRB Logistics,2024-11-07,2024-11-16,9,0,Twisted Love,Fiction,Penguin India,20,115.5,70,185.5,3710,2310,1400,624,6,78,1861
+ORD034,2024-11-06,Scholars Market,SRB Logistics,2024-11-07,2024-11-16,9,0,Twisted Love,Fiction,Penguin India,20,95,60,155,3100,1900,1200,624,6,78,1861
+ORD034,2024-11-06,Academic Traders,SRB Logistics,2024-11-07,2024-11-16,9,0,One Piece Vol 1,Manga,Viz Media India,20,105,70,175,3500,2100,1400,624,6,78,1861
+ORD034,2024-11-06,Scholars Market,SRB Logistics,2024-11-07,2024-11-16,9,0,Naruto Vol 1,Manga,Viz Media India,20,85.5,60,145.5,2910,1710,1200,624,6,78,1861
+ORD034,2024-11-06,Academic Traders,SRB Logistics,2024-11-07,2024-11-16,9,0,48 Laws of Power,Self-Help,Penguin India,20,105,70,175,3500,2100,1400,624,6,78,1861
+ORD034,2024-11-06,Scholars Market,SRB Logistics,2024-11-07,2024-11-16,9,0,Twisted Love,Fiction,Penguin India,20,95,60,155,3100,1900,1200,624,6,78,1861
+ORD034,2024-11-06,Academic Traders,SRB Logistics,2024-11-07,2024-11-16,9,0,Naruto Vol 1,Manga,Viz Media India,20,94.5,60,154.5,3090,1890,1200,624,6,78,1861
+ORD035,2024-12-15,Academic Traders,VR Logistics,2024-12-16,2024-12-23,7,0,Twisted Love,Fiction,Penguin India,20,94.5,60,154.5,3090,1890,1200,390.2,3,54,1758
+ORD035,2024-12-15,Delhi Book Hub,VR Logistics,2024-12-16,2024-12-23,7,0,It Ends With Us,Fiction,Simon & Schuster India,20,110,70,180,3600,2200,1400,390.2,3,54,1758
+ORD035,2024-12-15,Academic Traders,VR Logistics,2024-12-16,2024-12-23,7,0,It Ends With Us,Fiction,Simon & Schuster India,20,105,70,175,3500,2100,1400,390.2,3,54,1758
+ORD035,2024-12-15,Delhi Book Hub,VR Logistics,2024-12-16,2024-12-23,7,0,The Silent Patient,Fiction,Penguin India,20,90,60,150,3000,1800,1200,390.2,3,54,1758
+ORD035,2024-12-15,Academic Traders,VR Logistics,2024-12-16,2024-12-23,7,0,Naruto Vol 1,Manga,Viz Media India,20,105,70,175,3500,2100,1400,390.2,3,54,1758
+ORD035,2024-12-15,Delhi Book Hub,VR Logistics,2024-12-16,2024-12-23,7,0,Data Structures in C,Academic,McGraw Hill India,20,150,65,215,4300,3000,1300,390.2,3,54,1758
+ORD035,2024-12-15,Academic Traders,VR Logistics,2024-12-16,2024-12-23,7,0,Grays Anatomy,Medical,Elsevier India,20,315,85,400,8000,6300,1700,390.2,3,54,1758
+ORD035,2024-12-15,Delhi Book Hub,VR Logistics,2024-12-16,2024-12-23,7,0,The Silent Patient,Fiction,Penguin India,20,110,70,180,3600,2200,1400,390.2,3,54,1758
+ORD035,2024-12-15,Academic Traders,VR Logistics,2024-12-16,2024-12-23,7,0,It Ends With Us,Fiction,Simon & Schuster India,20,105,70,175,3500,2100,1400,390.2,3,54,1758
+ORD035,2024-12-15,Delhi Book Hub,VR Logistics,2024-12-16,2024-12-23,7,0,Engineering Mathematics,Academic,Pearson India,20,150,65,215,4300,3000,1300,390.2,3,54,1758
+ORD035,2024-12-15,Academic Traders,VR Logistics,2024-12-16,2024-12-23,7,0,48 Laws of Power,Self-Help,Penguin India,20,105,70,175,3500,2100,1400,390.2,3,54,1758
+ORD035,2024-12-15,Delhi Book Hub,VR Logistics,2024-12-16,2024-12-23,7,0,Grays Anatomy,Medical,Elsevier India,20,250,85,335,6700,5000,1700,390.2,3,54,1758
+ORD035,2024-12-15,Academic Traders,VR Logistics,2024-12-16,2024-12-23,7,0,Twisted Love,Fiction,Penguin India,20,115.5,70,185.5,3710,2310,1400,390.2,3,54,1758
+ORD035,2024-12-15,Delhi Book Hub,VR Logistics,2024-12-16,2024-12-23,7,0,One Piece Vol 1,Manga,Viz Media India,20,100,70,170,3400,2000,1400,390.2,3,54,1758
+ORD035,2024-12-15,Academic Traders,VR Logistics,2024-12-16,2024-12-23,7,0,Twisted Love,Fiction,Penguin India,20,94.5,60,154.5,3090,1890,1200,390.2,3,54,1758
+ORD035,2024-12-15,Delhi Book Hub,VR Logistics,2024-12-16,2024-12-23,7,0,The Silent Patient,Fiction,Penguin India,20,110,70,180,3600,2200,1400,390.2,3,54,1758
+ORD035,2024-12-15,Academic Traders,VR Logistics,2024-12-16,2024-12-23,7,0,Data Structures in C,Academic,McGraw Hill India,20,157.5,85,242.5,4850,3150,1700,390.2,3,54,1758
+ORD035,2024-12-15,Delhi Book Hub,VR Logistics,2024-12-16,2024-12-23,7,0,Grays Anatomy,Medical,Elsevier India,20,300,85,385,7700,6000,1700,390.2,3,54,1758
+ORD035,2024-12-15,Academic Traders,VR Logistics,2024-12-16,2024-12-23,7,0,Naruto Vol 1,Manga,Viz Media India,20,94.5,60,154.5,3090,1890,1200,390.2,3,54,1758
+ORD036,2024-12-20,Delhi Book Hub,SRB Logistics,2024-12-21,2024-12-31,10,0,The Silent Patient,Fiction,Penguin India,20,100,70,170,3400,2000,1400,544,4,68,1888
+ORD036,2024-12-20,Scholars Market,SRB Logistics,2024-12-21,2024-12-31,10,0,48 Laws of Power,Self-Help,Penguin India,20,85.5,60,145.5,2910,1710,1200,544,4,68,1888
+ORD036,2024-12-20,Delhi Book Hub,SRB Logistics,2024-12-21,2024-12-31,10,0,Twisted Love,Fiction,Penguin India,20,110,70,180,3600,2200,1400,544,4,68,1888
+ORD036,2024-12-20,Scholars Market,SRB Logistics,2024-12-21,2024-12-31,10,0,Naruto Vol 1,Manga,Viz Media India,20,85.5,60,145.5,2910,1710,1200,544,4,68,1888
+ORD036,2024-12-20,Delhi Book Hub,SRB Logistics,2024-12-21,2024-12-31,10,0,Twisted Love,Fiction,Penguin India,20,90,60,150,3000,1800,1200,544,4,68,1888
+ORD036,2024-12-20,Scholars Market,SRB Logistics,2024-12-21,2024-12-31,10,0,One Piece Vol 1,Manga,Viz Media India,20,95,60,155,3100,1900,1200,544,4,68,1888
+ORD036,2024-12-20,Delhi Book Hub,SRB Logistics,2024-12-21,2024-12-31,10,0,Engineering Mathematics,Academic,Pearson India,20,150,65,215,4300,3000,1300,544,4,68,1888
+ORD036,2024-12-20,Scholars Market,SRB Logistics,2024-12-21,2024-12-31,10,0,One Piece Vol 1,Manga,Viz Media India,20,104.5,70,174.5,3490,2090,1400,544,4,68,1888
+ORD036,2024-12-20,Delhi Book Hub,SRB Logistics,2024-12-21,2024-12-31,10,0,One Piece Vol 1,Manga,Viz Media India,20,100,70,170,3400,2000,1400,544,4,68,1888
+ORD036,2024-12-20,Scholars Market,SRB Logistics,2024-12-21,2024-12-31,10,0,Twisted Love,Fiction,Penguin India,20,104.5,70,174.5,3490,2090,1400,544,4,68,1888
+ORD036,2024-12-20,Delhi Book Hub,SRB Logistics,2024-12-21,2024-12-31,10,0,Grays Anatomy,Medical,Elsevier India,20,250,85,335,6700,5000,1700,544,4,68,1888
+ORD036,2024-12-20,Scholars Market,SRB Logistics,2024-12-21,2024-12-31,10,0,One Piece Vol 1,Manga,Viz Media India,20,104.5,70,174.5,3490,2090,1400,544,4,68,1888
+ORD036,2024-12-20,Delhi Book Hub,SRB Logistics,2024-12-21,2024-12-31,10,0,It Ends With Us,Fiction,Simon & Schuster India,20,90,60,150,3000,1800,1200,544,4,68,1888
+ORD036,2024-12-20,Scholars Market,SRB Logistics,2024-12-21,2024-12-31,10,0,Grays Anatomy,Medical,Elsevier India,20,237.5,85,322.5,6450,4750,1700,544,4,68,1888
+ORD036,2024-12-20,Delhi Book Hub,SRB Logistics,2024-12-21,2024-12-31,10,0,The Silent Patient,Fiction,Penguin India,20,90,60,150,3000,1800,1200,544,4,68,1888
+ORD037,2025-01-17,Delhi Book Hub,SRB Logistics,2025-01-18,2025-01-26,8,0,Naruto Vol 1,Manga,Viz Media India,20,90,60,150,3000,1800,1200,384,3,48,1737
+ORD037,2025-01-17,Metro Book Distributors,SRB Logistics,2025-01-18,2025-01-26,8,0,Naruto Vol 1,Manga,Viz Media India,20,92,60,152,3040,1840,1200,384,3,48,1737
+ORD037,2025-01-17,Delhi Book Hub,SRB Logistics,2025-01-18,2025-01-26,8,0,48 Laws of Power,Self-Help,Penguin India,20,90,60,150,3000,1800,1200,384,3,48,1737
+ORD037,2025-01-17,Metro Book Distributors,SRB Logistics,2025-01-18,2025-01-26,8,0,Engineering Mathematics,Academic,Pearson India,20,165.6,85,250.6,5012,3312,1700,384,3,48,1737
+ORD037,2025-01-17,Delhi Book Hub,SRB Logistics,2025-01-18,2025-01-26,8,0,The Silent Patient,Fiction,Penguin India,20,100,70,170,3400,2000,1400,384,3,48,1737
+ORD037,2025-01-17,Metro Book Distributors,SRB Logistics,2025-01-18,2025-01-26,8,0,One Piece Vol 1,Manga,Viz Media India,20,92,60,152,3040,1840,1200,384,3,48,1737
+ORD037,2025-01-17,Delhi Book Hub,SRB Logistics,2025-01-18,2025-01-26,8,0,It Ends With Us,Fiction,Simon & Schuster India,20,100,70,170,3400,2000,1400,384,3,48,1737
+ORD037,2025-01-17,Metro Book Distributors,SRB Logistics,2025-01-18,2025-01-26,8,0,The Silent Patient,Fiction,Penguin India,20,92,60,152,3040,1840,1200,384,3,48,1737
+ORD037,2025-01-17,Delhi Book Hub,SRB Logistics,2025-01-18,2025-01-26,8,0,Naruto Vol 1,Manga,Viz Media India,20,90,60,150,3000,1800,1200,384,3,48,1737
+ORD037,2025-01-17,Metro Book Distributors,SRB Logistics,2025-01-18,2025-01-26,8,0,Grays Anatomy,Medical,Elsevier India,20,276,85,361,7220,5520,1700,384,3,48,1737
+ORD037,2025-01-17,Delhi Book Hub,SRB Logistics,2025-01-18,2025-01-26,8,0,Grays Anatomy,Medical,Elsevier India,20,250,85,335,6700,5000,1700,384,3,48,1737
+ORD037,2025-01-17,Metro Book Distributors,SRB Logistics,2025-01-18,2025-01-26,8,0,One Piece Vol 1,Manga,Viz Media India,20,101.2,70,171.2,3424,2024,1400,384,3,48,1737
+ORD037,2025-01-17,Delhi Book Hub,SRB Logistics,2025-01-18,2025-01-26,8,0,The Silent Patient,Fiction,Penguin India,20,100,70,170,3400,2000,1400,384,3,48,1737
+ORD037,2025-01-17,Metro Book Distributors,SRB Logistics,2025-01-18,2025-01-26,8,0,It Ends With Us,Fiction,Simon & Schuster India,20,92,60,152,3040,1840,1200,384,3,48,1737
+ORD037,2025-01-17,Delhi Book Hub,SRB Logistics,2025-01-18,2025-01-26,8,0,Grays Anatomy,Medical,Elsevier India,20,250,85,335,6700,5000,1700,384,3,48,1737
+ORD037,2025-01-17,Metro Book Distributors,SRB Logistics,2025-01-18,2025-01-26,8,0,One Piece Vol 1,Manga,Viz Media India,20,101.2,70,171.2,3424,2024,1400,384,3,48,1737
+ORD037,2025-01-17,Delhi Book Hub,SRB Logistics,2025-01-18,2025-01-26,8,0,It Ends With Us,Fiction,Simon & Schuster India,20,110,70,180,3600,2200,1400,384,3,48,1737
+ORD037,2025-01-17,Metro Book Distributors,SRB Logistics,2025-01-18,2025-01-26,8,0,48 Laws of Power,Self-Help,Penguin India,20,82.8,60,142.8,2856,1656,1200,384,3,48,1737
+ORD037,2025-01-17,Delhi Book Hub,SRB Logistics,2025-01-18,2025-01-26,8,0,Twisted Love,Fiction,Penguin India,20,100,70,170,3400,2000,1400,384,3,48,1737
+ORD037,2025-01-17,Metro Book Distributors,SRB Logistics,2025-01-18,2025-01-26,8,1,Data Structures in C,Academic,McGraw Hill India,20,165.6,85,250.6,5012,3312,1700,384,3,48,1737
