@@ -350,7 +350,7 @@ It highlights how businesses can transform operational data into **strategic bus
 **Shadin K**
 
 BSc Statistics Graduate  
-Aspiring Data Analyst  
+Data Analyst  
 
 Skills:
 SQL • Python • Power BI • Data Modeling • Forecasting
